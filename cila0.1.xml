@@ -3,10 +3,9 @@
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta"/> Uraipeṟukaṭṭurai.
-                        <persName xml:lang="ta">Iḷaṅkō</persName>
-        </title>  
-                                   <editor role="translator">Neela Bhaskar</editor>           
+            <title xml:lang="ta"/> XX.
+            <persName xml:lang="ta"/>
+        </title>     
       </titleStmt>
       <publicationStmt><p/></publicationStmt>
       <sourceDesc>
@@ -27,17 +26,17 @@
     <div xml:id="Cila0.1">
       <p type="edition">
       <lg>
-<l>1. aṉṟutoṭṭup pāṇṭiyaṉāṭu maḻaivaṟaṅkūrntu vaṟumaiyeyti </l>
-<l>veppunōyuṅ kuruvun toṭarak koṟkaiyilirunta veṟṟivēṟceḻiyaṉ </l>
-<l>naṅkaikkup poṟkollarāyiravaraikkoṉṟu kaḷavēḷviyāl viḻavoṭucānti ceyya </l>
-<l>nāṭumaliya maḻaipeytu nōyun tuṉpamu nīṅkiyatu. </l>
+1. aṉṟutoṭṭup pāṇṭiyaṉāṭu maḻaivaṟaṅkūrntu vaṟumaiyeyti 
+veppunōyuṅ kuruvun toṭarak koṟkaiyilirunta veṟṟivēṟceḻiyaṉ
+naṅkaikkup poṟkollarāyiravaraikkoṉṟu kaḷavēḷviyāl viḻavoṭucānti ceyya
+ nāṭumaliya maḻaipeytu nōyun tuṉpamu nīṅkiyatu.
  </lg>
  <lg>
-<l>2. atukēṭṭuk koṅkiḷaṅ kōcar taṅkaṇāṭṭakattu naṅkaikku viḻavoṭucānticeyya</l>
-<l>maḻaitoḻileṉṟum māṟātāyiṟṟu.</l>
+2. atukēṭṭuk koṅkiḷaṅ kōcar taṅkaṇāṭṭakattu naṅkaikku viḻavoṭucānticeyya
+maḻaitoḻileṉṟum māṟātāyiṟṟu.
 </lg>
 <lg>
-3 . atukēṭṭuk kaṭalcūḻilaṅkaik kayavākuveṉpāṉ naṅkaikku nāṭpalipīṭikai kōṭṭamuṅtuṟuttāṅku
+. 3 . atukēṭṭuk kaṭalcūḻilaṅkaik kayavākuveṉpāṉ naṅkaikku nāṭpalipīṭikai kōṭṭamuṅtuṟuttāṅku
 arantaikeṭuttu varantarumivaḷeṉa āṭittiṅka ḷakavaiyiṉāṅkōr pāṭiviḻākkōḷ paṉmuṟai yeṭuppa
 maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟṟu.
 </lg>
@@ -510,7 +509,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <entry>
 <form>munt<c type="elided">u</c></form>
 <def>front</def>
-<form type="sandhi">munt</form>
+<form type="sandhi">muṅt</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
