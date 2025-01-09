@@ -27,8 +27,8 @@ jobs:
         run: |
           cd lib/_indexer
           yarn install
-          yarn pageindex p Cilappatikāram
-          yarn todb p
+          yarn pageindex cila Cilappatikāram
+          yarn todb cila
           yarn dbtohtml Cilappatikāram
           git pull
 
