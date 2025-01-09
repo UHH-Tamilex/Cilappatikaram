@@ -30,6 +30,7 @@ jobs:
           yarn pageindex cila Cilappatikāram
           yarn todb cila
           yarn dbtohtml Cilappatikāram
+          cd ../..
           git pull
 
       - uses: stefanzweifel/git-auto-commit-action@v4
