@@ -2667,7 +2667,7 @@
 </entry>
 <entry>
 <form>uṭai<c type="geminated">c</c></form>
-<def>break</def>
+<def>possess</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -2844,7 +2844,7 @@
 </entry>
 <entry>
 <form>navil</form>
-<def>utter-</def>
+<def>train-</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -3079,7 +3079,7 @@
 <form>uṭai<c type="geminated">k</c></form>
 <def>possess</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3453,7 +3453,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>vēntanoṭu</form>
+<form>vēntaṉoṭu</form>
 <def>king</def>
 <form type="sandhi">vēntaṉoṭu</form>
 <gramGrp>
@@ -3463,7 +3463,7 @@
 </entry>
 <entry>
 <form>vaḻakk<c type="elided">u</c></form>
-<def>wandering</def>
+<def>conduct</def>
 <form type="sandhi">vaḻakk</form>
 <gramGrp>
   <gram type="role">noun</gram>
