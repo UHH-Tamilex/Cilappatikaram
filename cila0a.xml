@@ -24,8 +24,8 @@
   </teiHeader>
 <text xml:lang="ta" type="edition">
   <body>
-    <div xml:id="Cila0">
-      <lg type="edition">
+    <div rend="parallel">
+      <lg xml:id="Cila0">
 <l>kuṇavāyiṟ kōṭṭat taracutuṟan tirunta</l>
 <l>kuṭakkōc cēra liḷaṅkō vaṭikaṭkuk</l>
 <l>kuṉṟak kuṟava roruṅkuṭaṉ kūṭip</l>
@@ -117,7 +117,7 @@
 <l>kūla vāṇikaṉ cāttaṉ kēṭṭaṉaṉ</l>
 <l>itu pālvakai terinta patikattiṉ marapeṉ.</l>
 </lg>
-<lg type="translation" xml:lang="en">
+<lg xml:lang="en">
 <l>To the eminent young prince Iḷaṅkō of the western Cēra kings,</l>
 <l>Who was in the enclosure at the eastern entrance,</l>
 <l>Having renounced his royal duties,</l>
