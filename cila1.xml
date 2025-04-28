@@ -95,30 +95,30 @@
 <l>ṉorutaṉi yāḻi yuruṭṭuvō ṉeṉavē.</l>
       </lg>
       <lg type="translation" xml:lang="en">
-<l>We praise the moon, we praise the moon,</l>
+<l>Let us praise the moon, let us praise the moon,</l>
 <l>Because of its care [towards] this beautiful world,</l>
-<l>[It] Resembling the cool, white parasol of [the king] Ceṉṉi</l>
+<l>[It] Resembling the cool, white parasol of [the king] Ceṉṉi/the majesty, </l>
 <l>With a garland upon which [flowers with] pollen open.</l>
-<l>We praise the sun, we praise the sun,</l>
-<l>Because of its  rightward cruise around the golden peaks of mount Mēṟu,</l>
+<l>Let us praise the sun, let us praise the sun,</l>
+<l>Because of its  rightward circumambulation around the golden peaks of mount Mēru,</l>
 <l>Like the discus of the Lord of the land of Kāvēri.</l>
-<l>We praise the great raincloud, we praise the great raincloud,</l>
-<l>Because of his pouring forth, standing above</l>
-<l>Like His [the king’s] generosity,</l>
-<l>To the world with the fearful fence of water (= the ocean).</l>
-<l>We praise beautiful Pukār, We praise beautiful Pukār,</l>
+<l>Let us praise the great raincloud, let us praise the great raincloud,</l>
+<l>Because of its pouring forth, standing above</l>
+<l>Like His [the king’s] care,</l>
+<l>To the world with the fence of fearsome water (= the ocean).</l>
+<l>Let us praise beautiful Pukār, let us praise beautiful Pukār,</l>
 <l>Because of its [superior] conduct, having spread loftily</l>
 <l>Along with His clan, for the sake of the world with a fence of swelling waters.</l>
 <l>Over there,</l>
 <l>Even if it Potiyil mountain, even if it is the Himalaya,</l>
-<l>Even if it is indeed Pukār of an excellence that severs mundaneness,</l>
-<l>In which ancient clans that do not know to leave the place [of Pukār] are abundant,</l>
-<l>Apart from the saying that it [Pukār] is permanent [fn. is shortened nilaiiyatu]</l>
+<l>Even if it is indeed Pukār of an excellence that cuts away from commonness,</l>
+<l>In which ancient clans that do not know to get up [i.e., leave the place [of Pukār] are abundant,</l>
+<l>Apart from the saying that it [Pukār] is permanent</l>
 <l>Those who perceive completely the lessons that were completed with truth,</l>
-<l>Are those who do not speak of [its] limitations. [grammar: muṟṟeccam]</l>
+<l>Are those who do not speak of [its] limitations.</l>
 <l>Because of that,</l>
 <l>With the long city of snakes and the land of snakes along with it,</l>
-<l>And the city of Pukār that is permanent in its prosperous, long fame - in that [city]</l>
+<l>And the city of Pukār that is permanent which lasts long [with respect to] enjoyments - in that [city]</l>
 <l>Was she who was no less than twelve years [of age],</l>
 <l>Who was she who resembled a golden, sky-high [=superior] creeper -</l>
 <l>A branch [= family member/girl] of the clan of the great sea-merchant</l>
@@ -244,7 +244,7 @@
 </entry>
 <entry>
 <form>ceṉṉi</form>
-<def>Ceṉṉi</def>
+<def>Ceṉṉi/majesty</def>
 <gramGrp>
   <gram type="role">proper name</gram>
 </gramGrp>
@@ -703,7 +703,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>eḻu</form>
-<def>rise</def>
+<def>get up</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -741,7 +741,7 @@
 </entry>
 <entry>
 <form>potu</form>
-<def>mundaneness</def>
+<def>commonness</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -939,8 +939,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pōka</form>
-<def>prosperity</def>
+<form>pōka(m)</form>
+<def>enjoyment</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -997,7 +997,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>māka</form>
+<form>māka(m)</form>
 <def>space</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1115,7 +1115,6 @@
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">feminine singular</gram>
-  <gram type="role">negative</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1182,9 +1181,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>eṉṟum</form>
+<form>eṉṟ<c type="elided">u</c>-um</form>
 <def>say</def>
-<form type="sandhi">eṉṟun</form>
+<form type="simple">eṉṟu</form>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>tīt<c type="elided">u</c></form>
@@ -1548,7 +1552,6 @@
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">feminine singular</gram>
-  <gram type="role">negative</gram>
 </gramGrp>
 </entry>
 <entry>
