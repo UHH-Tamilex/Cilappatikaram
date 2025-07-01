@@ -1842,7 +1842,7 @@
 <def>superior-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
   <gram type="role">dative</gram>
@@ -1862,7 +1862,7 @@
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">neuter singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2736,7 +2736,7 @@
 <def>praise-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>

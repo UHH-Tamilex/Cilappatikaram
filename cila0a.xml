@@ -698,7 +698,7 @@
 <def>know-he</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">participial noun</gram>
 </gramGrp>
 </entry>
@@ -732,7 +732,7 @@
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">masculine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -816,7 +816,7 @@
 <def>say-he</def>
 <gramGrp>
   <gram type="role">masculine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -934,7 +934,7 @@
 <form type="sandhi"><c type="glide">y</c>eṉpāṇ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1110,7 +1110,7 @@
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">masculine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1553,7 +1553,7 @@
 <form type="sandhi">kāṇāṇ</form>
 <gramGrp>
   <gram type="role">feminine singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1738,7 +1738,7 @@
 <form><c type="glide">y</c>ākum</form>
 <def>becoming-</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -2571,7 +2571,7 @@
 <form type="simple">eṉpatū</form>
 <gramGrp>
   <gram type="role">neuter singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
