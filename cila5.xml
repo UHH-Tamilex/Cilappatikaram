@@ -1134,7 +1134,7 @@
 <def>announce-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -1227,7 +1227,7 @@
 <form>kārukar</form>
 <def>weaver</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -1554,7 +1554,7 @@
 <def>announce-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -1596,7 +1596,7 @@
 <form type="sandhi">vilaiñarōṭ</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
   <gram type="role">noun</gram>
   <gram type="role">sociative</gram>
@@ -1607,7 +1607,7 @@
 <def>oil-seller(?)</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1675,7 +1675,7 @@
 <form type="simple">ceykunar</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -1765,7 +1765,7 @@
 <form type="sandhi"><c type="geminated">ṇ</c>īṭṭāḷar</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -1816,7 +1816,7 @@
 <form type="simple">tarunar</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -2753,7 +2753,7 @@
 <def>mount-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -3028,7 +3028,7 @@
 <def>give-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -3046,7 +3046,7 @@
 <def>take-they</def>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -5854,7 +5854,7 @@
 <gramGrp>
   <gram type="role">third person</gram>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>

@@ -1826,7 +1826,7 @@
 <form>paṭivēṉ</form>
 <def>settle-I</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -1873,7 +1873,7 @@
 <gramGrp>
   <gram type="role">second person</gram>
   <gram type="role">singular</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1939,7 +1939,7 @@
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">first person</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -2171,7 +2171,7 @@
 <form>piṭittaṉaṉ</form>
 <def>held-he</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">masculine singular</gram>
   <gram type="role">participial noun</gram>
 </gramGrp>
@@ -2256,7 +2256,7 @@
 <form>iṭṭaṉar</form>
 <def>put-they</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -2893,7 +2893,7 @@
 <form type="sandhi">uṟuvar</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
@@ -2948,7 +2948,7 @@
 <form>piṟappar</form>
 <def>be-born-they</def>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>

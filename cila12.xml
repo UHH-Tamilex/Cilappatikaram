@@ -2696,7 +2696,7 @@
 <def>wear</def>
 <form type="sandhi">cūṭuñ</form>
 <gramGrp>
-  <gram type="role">imperfect aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">peyareccam</gram>
 </gramGrp>
 </entry>
@@ -4675,7 +4675,7 @@
   <def>stand-you</def>
   <form type="sandhi">niṟpāy.(8)</form>
   <gramGrp>
-    <gram type="role">imperfect aspect</gram>
+    <gram type="role">imperfective aspect</gram>
     <gram type="role">singular</gram>
     <gram type="role">second person</gram>
   </gramGrp>
@@ -4896,7 +4896,7 @@
   <def>stand-you</def>
   <form type="sandhi">niṟpāy.(9)</form>
   <gramGrp>
-    <gram type="role">imperfect aspect</gram>
+    <gram type="role">imperfective aspect</gram>
     <gram type="role">singular</gram>
     <gram type="role">second person</gram>
   </gramGrp>
@@ -4995,7 +4995,7 @@
   <form type="simple">niṉṟāy</form>
   <form type="sandhi">ṉiṉṟāy</form>
   <gramGrp>
-    <gram type="role">imperfect aspect</gram>
+    <gram type="role">imperfective aspect</gram>
     <gram type="role">second person</gram>
     <gram type="role">singular</gram>
   </gramGrp>
@@ -5090,7 +5090,7 @@
   <def>stand-you</def>
   <form type="sandhi">niṟpāy.(10)</form>
   <gramGrp>
-    <gram type="role">imperfect aspect</gram>
+    <gram type="role">imperfective aspect</gram>
     <gram type="role">singular</gram>
     <gram type="role">second person</gram>
   </gramGrp>
