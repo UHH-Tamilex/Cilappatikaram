@@ -203,8 +203,8 @@
 <l>Oh doll who is difficult to obtain! Oh remedy to full [=hectic] life!</l>
 <l>Oh daughter of great innocence, of a merchant from a great house!</l>
 <l>Shall I say a sapphire that is not produced among mountains,</l>
-<l>[Or] Shall I say  a nectar that is not produced among the waves [of the ocean],</l>
-<l>[Or]Shall I sayindeed the music that is not produced in a lute,</l>
+<l>[Or] shall I say, a nectar that is not produced among the waves [of the ocean],</l>
+<l>[Or]shall I say indeed the music that is not produced in a lute,</l>
 <l>About you, oh woman with hanging, dark tresses?”</l>
 <l>Having said this, [Kovalaṉ] having praised [with] several things</l>
 <l>[In a] speech that was unmoving [= steadfast in love],</l>
@@ -488,9 +488,12 @@
 </entry>
 <entry>
 <form>taruvaṉar</form>
-<def>they bring</def>
+<def>bring they</def>
 <gramGrp>
   <gram type="role">third person</gram>
+  <gram type="role">imperfect aspect</gram>
+  <gram type="role"> participial noun</gram>
+  <gram type="role">plural</gram>
 </gramGrp>
 </entry>
 <entry>
