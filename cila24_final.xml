@@ -1,0 +1,1537 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>
+            <title xml:lang="ta">Cilappatikāram</title> Kuṉṟakkuravai.
+            <persName xml:lang="ta">Iḷaṅkō</persName>
+        </title>     
+        <editor role="translator">Neela Bhaskar</editor>             
+      </titleStmt>
+      <publicationStmt><p/></publicationStmt>
+      <sourceDesc>
+        <msDesc xml:lang="en">
+          <msIdentifier>
+          </msIdentifier>
+           <msContents>
+            <summary><p/>
+            </summary>
+          </msContents>    
+        </msDesc>
+      </sourceDesc>
+    </fileDesc>
+    <revisionDesc><change/></revisionDesc>
+  </teiHeader>
+<text xml:lang="ta" type="edition">
+  <body>
+
+    <div rend="parallel">
+      <p>
+    <head type="subtitle">uraipāṭṭu maṭai</head>
+  </p>
+  <p xml:lang="en">
+    <head type="subtitle">An interval of dialogue as song</head>
+  </p>
+    </div>
+
+    <div rend="parallel">
+      <lg xml:id="cila24.1"> 
+        <l>kuruviyōppiyuṅ kiḷikaṭintuṅ kuṉṟattucceṉṟu vaiki</l>
+<l>aruviyāṭiyuñ cuṉaikuṭaintu malavuṟṟu varuvēmuṉ</l>
+<l>malaivēṅkai naṟuniḻaliṉ vaḷḷipōlvīr maṉanaṭuṅka</l>
+<l>mulaiyiḻantu vantuniṉṟīr yāvirōveṉa muṉiyātē</l>
+<l>maṇamaturaiyō ṭaracukēṭuṟa valviṉaivan turuttakālaik</l>
+<l>kaṇavaṉaiyaṅ kiḻantupōnta kaṭuviṉaiyēṉ yāṉeṉṟāḷ</l>
+<l>eṉṟalu miṟaiñciyañci yiṇaivaḷaikkai yetirkūppi</l>
+<l>niṉṟa vellaiyuḷ vāṉavaru neṭumāri malarpoḻintu</l>
+<l>kuṉṟavaruṅ kaṇṭu niṟpak koḻunaṉoṭu koṇṭu pōyiṉār</l>
+<l>ivaḷpōlu naṅkulakkō rirunteyva millaiyātaliṉ</l>
+<l>ciṟukuṭi yīrē ciṟukuṭi yīrē</l>
+<l>teyvaṅ koḷḷumiṉ ciṟukuṭi yīrē</l>
+<l>niṟaṅkiḷa raruvip paṟampiṉ ṟāḻvarai</l>
+<l>naṟuñciṉai vēṅkai naṉṉiḻaṟ kīḻōr</l>
+<l>teyvaṅ koḷḷumiṉ ciṟukuṭi yīrē</l>
+<l>toṇṭakan toṭumiṉ ciṟupaṟai toṭumiṉ</l>
+<l>kōṭuvāy vaimmiṉ koṭumaṇi yiyakkumiṉ</l>
+<l>kuṟiñci pāṭumi ṉaṟumpukai yeṭumiṉ</l>
+<l>pūppali ceymmiṉ kāppukkaṭai niṟumiṉ</l>
+<l>paravalum paravumiṉ viravumalar tūvumiṉ</l>
+<l>orumulai yiḻanta naṅkaikkup</l>
+<l>perumalai tuñcātu vaḷañcurak keṉavē.</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Saying, ‘In front of us who come, having scared away sparrows,</l>
+        <l>  Having chased away parakeets, having gone to the hills, staying [there],</l>
+        <l>  Bathing in the waterfalss, diving into mountain ponds [and now] being perturbed,</l>
+        <l>  Who could you be? — You who are like a creeper/Vaḷḷi [Murukaṉ’s wife],</l>
+        <l>  In the fragrant shade of the mountain kino tree,</l>
+        <l>  You who stood [here], having come, losing a breast so that the mind trembles?</l>
+        <l>  Not being angry, [= in a friendly way], she said,</l>
+        <l>  When strong Karma, having come, took shape</l>
+        <l>  So the king along with fragrant Maturai were lost,</l>
+        <l>  I am the one of the cruel Karma that returned,</l>
+        <l>  Having thus lost [my] husband. Upon saying this,</l>
+        <l>  As all the hillspeople stood watching, bowing, fearing,Having put together their opposing hands with twin-bangles in worship,</l>
+        <l>  All celestials showering a long[-lasting] shower of flowers</l>
+        <l>  From within [their own] limits [= from the skies],</l>
+        <l>  She went, being taken along with [her] husband.</l>
+        <l>  Because there is no unique, great god like her for our clan,</l>
+        <l>  Oh you people of the small hamlet! Oh you people of the small hamlet!</l>
+        <l>  Take [her as your] God, oh you people of the small hamlet!</l>
+        <l>  Take the unique God under the good shade of the kino tree of fragrant work,</l>
+        <l>  At the low-hanging mountain [= valley] of Paṟampu</l>
+        <l>  [With] waterfalls that shine [with respect to their] colour,</l>
+        <l>  Oh you people of the small hamlet!</l>
+        <l>  Press [= play] the Toṇṭakam drum. Press [= play] the small Paṟai drum.</l>
+        <l>  Place in [your] mouth the bent thing [= the conch]. Make move the curved bells.</l>
+        <l>  Sing Kuṟiñci. Lift up fragrant incense. Make an offering of flowers.</l>
+        <l>  Stand at the guarded entrances. Spread praise. Sprinkle a mixture of flowers.The big mountain will not sleep</l>
+        <l>  For [the sake of] the lady who lost one breast.</l>
+        <l>  May prosperity pour forth!</l>
+      </lg>
+    </div>
+
+    <div rend="parallel">
+      <p>
+        <head type="subtitle"> koḷuccol </head>
+      </p>
+  <p xml:lang="en">
+    <head type="subtitle">The gist. </head>
+  </p>
+    </div>
+  <div rend="parallel">
+    <lg xml:id="cila24.2"> 
+      <l>āṅkoṉṟu kāṇā yaṇiyiḻā yīṅkitukāṇ</l>
+<l>añcaṉap pūḻi yaritārat tiṉṉiṭiyaṟ</l>
+<l>cinturac cuṇṇañ ceṟiyattūyt tēṅkamaḻn</l>
+<l>tintira villi ṉeḻilkoṇ ṭiḻumeṉṟu</l>
+<l>vantīṅ kiḻiyu malaiyaruvi yāṭutumē.</l>
+<l>āṭutumē tōḻi yāṭutumē tōḻi</l>
+<l>añcalōm peṉṟu nalaṉuṇṭu nalkātāṉ</l>
+<l>mañcucūḻ cōlai malaiyaruvi yāṭutumē.</l>
+    </lg>
+<lg xml:lang="en">
+  <l>Look at one thing over there, oh you with beautiful jewels! Here, look at this [thing].</l>
+  <l>Let us bathe in the mountain waterfall that falls here, having arrived,</l>
+  <l>Saying it will fall, taking on the beauty of Indra’s bow [= a rainbow]</l>
+  <l>Emitting the fragrance of pure honey,</l>
+  <l>As collyrium dust, a pleasant power of yellow musk [and]</l>
+  <l>The vermillion powders mix together.</l>
+  <l>Let us bathe, o female friend, let us bathe!</l>
+  <l>Let us bathe in the mountain waterfall</l>
+  <l>In the groves around which clouds swarm,</l>
+  <l>Of him who is not gracious, having consumed our beauty,</l>
+  <l>Having said ‘Remove [your] fear’.</l>
+</lg>
+  </div>
+
+  <div rend="parallel">
+    <p>
+      <head type="subtitle">[ciṟaippuṟam] </head>
+    </p>
+<p xml:lang="en">
+  <head type="subtitle">Surreptitiously. </head>
+</p>
+  </div>
+
+  <div rend="parallel">
+    <lg xml:id="cila24.3">
+      <l>eṟṟoṉṟuṅ kāṇēm pulatta lavarmalaik kaṟṟīṇṭi vanta putuppuṉal</l>
+      <l>kaṟṟīṇṭi vanta putuppuṉaṉ maṟṟaiyār</l>
+      <l>uṟṟāṭi ṉōntōḻi neñcaṉṟē</l>
+      <l>eṉṉōṉṟuṅ kāṇēm pulatta lavarmalaip</l>
+      <l>poṉṉāṭi vanta putuppuṉaṉ maṟṟaiyār</l>
+      <l>muṉṉāṭi ṉōntōḻi neñcaṉṟē</l>
+      <l>yātoṉṟuṅ kāṇēm pulatta lavarmalaip</l>
+      <l>pōtāṭi vanta putuppuṉaṉ maṟṟaiyār</l>
+      <l>mītāṭi ṉōntōḻi neñcaṉṟē</l>
+</lg>
+<lg xml:lang="en">
+  <l>I don’t see a single reason [for] the heart to be vexed</l>
+<l>[With] the new floods that come, having rubbed against the stones of his mountain.</l>
+<l>[For] isn’t it [so?]</l>
+<l>We bathed possessed by [= thinking of] whom [else], oh confidante,</l>
+<l>Other than [this] new flood that came,</l>
+<l>Having rubbed against the stones [of his mountain]?</l>
+<l>I don’t see a single reason [for] the heart to be vexed.</l>
+<l>Apart from the new flood that came, having played with [= dashed against] </l>
+<l>The gold [rocks] of his mountain,</l>
+<l>Before whom [else] did we bathe, oh confidante?</l>
+<l>I don’t see a single reason [for] the heart to be vexed.</l>
+<l>Apart from the new flood that came, having played</l>
+<l>[With] the buds [in] his mountain,</l>
+<l>Upon whom [else] did we bathe, oh confidante?</l>
+</lg>
+</div>
+<div rend="parallel">
+    <p>
+      <head type="subtitle">pāṭṭumaṭai </head>
+    </p>
+<p xml:lang="en">
+  <head type="subtitle">An interval of song. </head>
+</p>
+  </div>
+<div rend="parallel">
+  <lg xml:id="cila24.4">
+    <l>uraiyiṉi mātarā yuṇkaṇ civappap</l>
+    <l>puraitīr puṉalkuṭain tāṭiṉō māyiṉ</l>
+    <l>uravunīr mākoṉṟa vēlēnti yēttik</l>
+    <l>kuravai toṭuttoṉṟu pāṭukamvā tōḻi.</l>
+      </lg>
+      <lg xml:lang="en">
+        <l>Oh lady sweet [in] words!</l>
+        <l>If we bathed, having dived deep in the floods that end comparison,</l>
+        <l>So that [our] kajaled eyes redden,</l>
+        <l>Let us sing one [song], having linked [together] the Kuravai composition</l>
+        <l>Having praised [him], [he] having lifted up the spear</l>
+        <l>That killed the strong mango [in] the waters;</l>
+        <l>Come, oh confidante!</l>
+      </lg>
+</div>
+  <div rend="parallel">
+    <p>
+      <head type="subtitle"> teyvam parāayatu </head>
+    </p>
+<p xml:lang="en">
+  <head type="subtitle">The praise of the deity. </head>
+</p>
+</div>
+<div rend="parallel">
+  <lg xml:id="cila24.5">
+    <l>cīrkeḻu centiluñ ceṅkōṭum veṇkuṉṟum</l>
+<l>ērakamu nīṅkā viṟaivaṉkai vēlaṉṟē</l>
+<l>pārirum pauvatti ṉuḷpukkup</l>
+<l>paṇṭorunāḷ</l>
+<l>cūrmā taṭinta cuṭarilaiya veḷvēlē</l>
+<l>aṇimukaṅka ḷōrāṟu mīrāṟu kaiyum</l>
+<l>iṇaiyiṉṟit tāṉuṭaiyā ṉēntiya vēlaṉṟē</l>
+<l>piṇimukamēṟ koṇṭavuṇar pīṭaḻiyum vaṇṇam</l>
+<l>maṇivicumpiṟ kōṉētta māṟaṭṭa veḷvēlē</l>
+<l>caravaṇappūm paḷḷiyaṟait tāymā raṟuvar</l>
+<l>tirumulaippā luṇṭāṉ ṟirukkaivē laṉṟē</l>
+<l>varutikiri kōlavuṇaṉ mārpam piḷantu</l>
+<l>kuruku peyarkkuṉṟaṅ koṉṟa neṭuvēlē.</l>
+</lg>
+<lg xml:lang="en">
+  <l>Isn’t [this] the spear in the hand of the Lord</l>
+  <l>Who does not leave Centil abundant in excellence,</l>
+  <l>Ceṅkōṭu, Veṇkuṉṟu and Ērakam?</l>
+  <l>It is the very leaf-shaped, white[-hot] spear</l>
+  <l>That on a former day, cut off the mango tree [that was] Cūr,</l>
+  <l>Having entered into the rocky, dark ocean!</l>
+  <l>Isn’t [this] the spear that was lifted by him who possessed</l>
+  <l>Without a duplicate, six beautiful faces and twelve hands?</l>
+  <l>It is the white[-hot] spear that killed [all] opposition</l>
+  <l>So that the kings of the sky that was blue [with respect to] colour</l>
+  <l>In which the greatness of demon perish - praised,</l>
+  <l>Having mounted the scar-face[d one].</l>
+  <l>Isn’t [this] the spear in the brilliant hand</l>
+  <l>Of him who drank the sacred breastmilk</l>
+  <l>[From] the six mothers, [in] the flowered sleeping chamber</l>
+  <l>[That was] the pond?</l>
+  <l>It is the long spear that killed, having split open</l>
+  <l>The chest of the Acura with an advancing discus [and] staff/rod</l>
+  <l>[In] the hill [with] the name of the wader bird (krauñca).</l>
+</lg>
+</div>
+  <div rend="parallel">
+    <p>
+      <head type="subtitle"> pāṭṭumaṭai (aṟattoṭu nilai) </head>
+    </p>
+<p xml:lang="en">
+  <head type="subtitle">An interval of song (the truth). </head>
+</p>
+</div>
+<div rend="parallel">
+  <lg xml:id="cila24.6">
+<l>iṟaivaḷai nallā yitunakaiyā kiṉṟē</l>
+<l>kaṟivaḷar taṇcilampaṉ ceytanōy tīrkka</l>
+<l>aṟiyāṇmaṟ ṟaṉṉai yalarkaṭampa ṉeṉṟē</l>
+<l>veṟiyāṭa ṟāṉvirumpi vēlaṉvaru keṉṟāḷ</l>
+<l>āyvaḷai nallā yitunakai yākiṉṟē</l>
+<l>māmalai veṟpaṉōy tīrkkavarum vēlaṉ</l>
+<l>varumāyiṉ vēlaṉ maṭava ṉavaṉiṟ</l>
+<l>kuruku peyarkkuṉṟaṅ koṉṟāṉ maṭavaṉ</l>
+<l>ceṟivaḷaikkai nallā yitunakaiyā kiṉṟē</l>
+<l>veṟikamaḻ veṟpaṉōy tīrkkavarum vēlaṉ</l>
+<l>vēlaṉ maṭava ṉavaṉiṉun tāṉ maṭavaṉ</l>
+<l>ālamar celvaṉ putalvaṉ varumāyiṉ</l>
+<l>nēriḻai nallāy nakaiyā malaināṭaṉ</l>
+<l>mārpu taruvennōy tīrkka varumvēlaṉ</l>
+<l>tīrkka varumvēlaṉ ṟaṉṉiṉun tāṉmaṭavaṉ</l>
+<l>kārkkaṭappan tāreṅ kaṭavuḷ varumāyiṉ</l>
+</lg>
+<lg xml:lang="en">
+  <l>Oh good girl with bangles [at the] joints! This has become a joke!</l>
+  <l>In order to alleviate the affliction that was caused</l>
+  <l>By him from the cool mountain slopes on which black pepper grows,</l>
+  <l>Mother, who was indeed unknowing that it was</l>
+  <l>Him with [a garland of] blossoming Kaṭampa flowers,</l>
+  <l>She, desiring the Veṟi dance, said, ‘Oh man with the spear [Murukaṉ priest], may you come!’</l>
+  <l>Oh good girl with choice bangles! This has become a joke!</l>
+  <l>If the man with the spear [Murukaṉ priest] who comes</l>
+  <l>In order to alleviate the affliction of the man from the great mountain,</l>
+  <l>[Really] does come, he is a fool!</l>
+  <l>He who killed the hill [with] the name of the wader bird</l>
+  <l>[Is therefore also] a fool!</l>
+  <l>Oh good girl [with] hands [with] close-set bangles! This has become a joke.</l>
+  <l>The man with the spear [Murukaṉ priest] that comes</l>
+  <l>In order to alleviate the affliction of him of the mountain in which toddy is fragrant</l>
+  <l>[That] man with the spear [Murukaṉ priest] is a fool. More than even him,</l>
+  <l>If the son of the man who dwells under the banyan tree comes,</l>
+  <l>He is the fool!</l>
+</lg>
+</div>  
+<div rend="parallel">
+  <p>
+    <head type="subtitle"> pāṭṭumaṭai </head>
+  </p>
+<p xml:lang="en">
+<head type="subtitle">An interval of song. </head>
+</p>
+</div>
+<div rend="parallel">
+<lg xml:id="cila24.7">
+  <l>vēlaṉār vantu veṟiyāṭum veṅkaḷattu</l>
+  <l>nīlap paṟavaimē ṉēriḻai taṉṉōṭum</l>
+  <l>ālamar celvaṉ putalvaṉ varumvantāl</l>
+  <l>mālvarai veṟpaṉ maṇavaṇi vēṇṭutumē</l>
+  <l>kayilainaṉ malaiyiṟai makaṉainiṉ matinutal</l>
+  <l>mayiliyaṉ maṭavaraṉ malaiyartam makaḷār</l>
+  <l>ceyalaiya malarpurai tiruvaṭi toḻutēm</l>
+  <l>ayaṉmaṇa moḻi yaru ḷavarmaṇa meṉavē</l>
+  <l>malaimakaṇ makaṉai niṉ matinutaṉ maṭavaral</l>
+  <l>kulamalai yuṟaitaru kuṟavartam makaḷār</l>
+  <l>nilaiyuyar kaṭavuṇiṉ ṉiṇaiyaṭi toḻutēm</l>
+  <l>palaraṟi maṇamavar paṭukuva reṉavē</l>
+  <l>kuṟamaka ḷavaḷema kulamaka ḷavaḷoṭum</l>
+  <l>aṟumuka voruvaṉiṉ ṉaṭiyiṇai toḻutēm</l>
+  <l>tuṟaimicai niṉatiru tiruvaṭi toṭunar</l>
+  <l>peṟukanaṉ maṇamviṭu piḻaimaṇa meṉavē</l>
+</lg>
+<lg xml:lang="en">
+  <l>Upon the hot floor</l>
+  <l>On which the eminent man with the spear [Murukaṉ priest] comes,</l>
+  <l>The son of him who dwells [under] the banyan tree</l>
+  <l>Along with [she] with fine jewels, upon the blue bird [peacock],</l>
+  <l>Will come. If he comes,</l>
+  <l>We need/may request the marriage celebration!</l>
+  <l>Oh Lord, the son of [him who] is seated in the good mountain of Kayilai!</l>
+  <l>We worship your sacred feet that resemble the pretty blossoms of the full Aśoka tree,</l>
+  <l>[Along with] the simple [= naïve] daughter of the mountain people,</l>
+  <l>[With] a [crescent-]moon forehead [and] the nature of a peacock [= Vaḷḷi],</l>
+  <l>Saying,</l>
+  <l>Among those who speak [of] the union in the neighbourhood,</l>
+  <l>It is their union!</l>
+  <l>Oh Lord [who is] the son of the daughter of the mountain [Pārvatī]!</l>
+  <l>We worship your pair of feet, Lord who is lofty [in your] state,</l>
+  <l>[Along with] the girl of the hillspeople that stay in the mountains of their clan,</l>
+  <l>Saying, ‘They will experience a union known to many’!</l>
+  <l>We worship the pair of feet of one man with six faces</l>
+  <l>Along with the girl of our clan - that girl [who is] the girl of the hillspeople</l>
+  <l>Saying ‘May those who touch your sacred feet of yours,</l>
+  <l>Atop the [sacred] ghat, obtain a good union -</l>
+  <l>A union of letting go of sins!’</l>
+</lg>
+</div> 
+<div rend="parallel">
+  <p>
+    <head type="subtitle"> pāṭṭumaṭai </head>
+  </p>
+<p xml:lang="en">
+<head type="subtitle">An interval of song. </head>
+</p>
+</div>
+<div rend="parallel">
+<lg xml:id="cila24.8">
+  <l>eṉṟiyām pāṭa maṟainiṉṟu kēṭṭaruḷi</l>
+  <l>maṉṟalaṅ kaṇṇi malaināṭaṉ pōvāṉmuṉ</l>
+  <l>ceṉṟē ṉavaṉṟaṉ ṟiruvaṭi kaitoḻutu</l>
+  <l>niṉṟē ṉuraittatu kēḷvāḻi tōḻi</l>
+  <l>kaṭampu cūṭi yuṭampiṭi yēnti</l>
+  <l>maṭantai poruṭṭāl varuva tivvūr</l>
+  <l>aṟumuka millai yaṇimayi lillai</l>
+  <l>kuṟamaka ḷillai ceṟitō ḷillai</l>
+  <l>kaṭampūṇ ṭeyva māka nērār</l>
+  <l>maṭavar maṉṟavic ciṟukuṭi yōrē.</l>
+</lg>
+<lg xml:lang="en">
+  <l>As we sang thus,</l>
+  <l>I went before him who would depart [soon] -</l>
+  <l>The man of the mountain lands [with] a perfumed, pretty chaplet,</l>
+  <l>[He] having deigned to hear, standing hidden/in secret [the songs we sang],</l>
+  <l>[And], I stood, having worshipped [with my] hands his sacred feet.</l>
+  <l>Pray, listen, oh friend, [to] that which was narrated!</l>
+  <l>Having worn Kadamba flowers, holding up a spear,</l>
+  <l>This town did not understand [your] coming</l>
+  <l>Due to the matters of a girl</l>
+  <l>As the god wearing Kadamba [for]</l>
+  <l>There were no six faces; there was no beautiful peacock;</l>
+  <l>There was no woman from the hills;</l>
+  <l>Indeed, the people of this village are ignorant!</l>
+</lg>
+</div>  
+<div rend="parallel">
+  <p>
+    <head type="subtitle"> pāṭṭumaṭai </head>
+  </p>
+<p xml:lang="en">
+<head type="subtitle">An interval of song. </head>
+</p>
+</div>
+<div rend="parallel">
+<lg xml:id="cila24.9">
+  <l>eṉṟīṅ</l>
+<l>kalarpāṭu peṟṟamai yāṉuraippak kēṭṭup</l>
+<l>pularvāṭu neñcam puṟaṅkoṭuttup pōṉa</l>
+<l>malartalai veṟpaṉ varaivāṉum pōlum</l>
+<l>mulaiyiṉāṉ māmaturai kōḷiḻaittāḷ kātal</l>
+<l>talaivaṉai vāṉōr tamarāruṅ kūṭip</l>
+<l>palartoḻu pattiṉikkuk kāṭṭik koṭutta</l>
+<l>nilaiyoṉṟu pāṭutum yām.</l>
+<l>pāṭukam vāvāḻi tōḻiyām pāṭukam</l>
+<l>pāṭukam vāvāḻi tōḻiyām pāṭukam</l>
+<l>kōmuṟai nīṅkak koṭimāṭak kūṭalait</l>
+<l>tīmuṟai ceytāḷai yēttiyām pāṭukam</l>
+<l>tīmuṟai ceytāḷai yēttiyām pāṭuṅkāl</l>
+<l>māmalai veṟpaṉ maṇavaṇi vēṇṭutumē</l>
+<l>pāṭuṟṟup</l>
+<l>pattiṉip peṇṭir paravit toḻuvāḷōr</l>
+<l>paittara valkuṉam paimpuṉat tuḷḷāḷē</l>
+<l>paittara valkul kaṇavaṉai vāṉōrkaḷ</l>
+<l>uyttuk koṭuttu muraiyō voḻiyārē</l>
+<l>vāṉaka vāḻkkai yamarar toḻutēttak</l>
+<l>kāṉa naṟuvēṅkaik kīḻāḷōr kārikaiyē</l>
+<l>kāṉa naṟuvēṅkaik kīḻāḷ kaṇavaṉoṭum</l>
+<l>vāṉaka vāḻkkai marutaṟavō villāḷē</l>
+<l>maṟutara villāḷai yēttinām pāṭap</l>
+<l>peṟukatil lamma vivvūru mōrpeṟṟi</l>
+<l>peṟṟi yuṭaiyatē peṟṟi yuṭaiyatē</l>
+<l>poṟṟoṭi mātar kaṇavaṉ maṇaṅkāṇap</l>
+<l>peṟṟi yuṭaiyativ vūr</l>
+<l>eṉṟiyām</l>
+<l>koṇṭu nilaipāṭi yāṭuṅ kuravaiyaik</l>
+<l>kaṇṭunaṅ kātalar kaivantā rāṉā</l>
+<l>tuṇṭu makiḻntāṉā vaikalum vāḻiyar</l>
+<l>villeḻutiya vimayattoṭu</l>
+<l>kolli yāṇṭa kuṭavar kōvē</l>
+</lg>
+<lg xml:lang="en">
+  <l>Thus,</l>
+<l>[He] having heard</l>
+<l>As I narrated the result of the ways of gossip,</l>
+<l>The man of the mountains with blossoms who went away,</l>
+<l>Turning his back with a dry, fading heart,</l>
+<l>Will marry [you soon], it seems.</l>
+<l>[Instead],</l>
+<l>Let us sing one thing on the state in which</l>
+<l>The celestials and their relations, having come together</l>
+<l>Revealed to the Pattiṉi [wife] whom many worship,</l>
+<l>The beloved hero of she who fashioned/created the taking</l>
+<l>Of great Maturai with a breast!</l>
+<l>Pray come, friend - we shall sing!</l>
+<l>Pray come, friend - we shall sing!</l>
+<l>We shall sing, praising her who brought order with fire</l>
+<l>To Kūṭal with bannered, storeyed houses</l>
+<l>So that the order of the king left.</l>
+<l>When we sing, praising her who brought order with fire,</l>
+<l>We wish/pray for the marriage celebration</l>
+<l>Of the man from the big mountain!</l>
+<l>Being filled with song,</l>
+<l>She will worship, having praised, the woman Pattiṉi:</l>
+<l>One [girl with] the labia [like] a [cobra’s] opening hood</l>
+<l>Is indeed in our fresh fields!</l>
+<l>Even after the celestials had given, having led</l>
+<l>The husband of [her with] labia like a [cobra’s] opening hood,</l>
+<l>They did not cease in [their] words [of praise]!</l>
+<l>As the immortals with a life in the skies worshipped and praised [her],</l>
+<l>There is a lady - she who is under the fragrant kino tree of the forest.</l>
+<l>She who is under the fragrant kino tree of the forest</l>
+<l>Certainly is not one to return with her husband</l>
+<l>[From] a life inside the sky!</l>
+<l>As we sing, praising she who does not return,</l>
+<l>May this town too obtain a boon!</l>
+<l>[But] there is a boon! There is a boon!</l>
+<l>Indeed, this town has a boon</l>
+<l>To see the union [between] the husband</l>
+<l>And the lady with gold bracelets.</l>
+<l>Thus, we taking in [the song],</l>
+<l>Having seen the Kuravai which is danced, singing on the state [of things],</l>
+<l>Our lover came here,</l>
+<l>Endlessly eating and delighting on an unending day.</l>
+<l>May the king of the western people</l>
+<l>Who ruled Kolli along with the Himalaya upon which a bow was drawn</l>
+<l>Live long!</l>
+</lg>
+</div>  
+  </body>
+</text>
+<standOff corresp="#cila24.1" type="wordsplit">
+<interp type="alignment" select="0">11MG13M2G30MG15M2G6MG11ML39MR35MG12M2G6ML9MG8MG15MG25MG36MG59MGMR28MG43MR9MG35MG12MG26MG87MG78ML55MG81MG3MG3M,821MG</interp>
+<entry>
+<form>kuruvi</form>
+<def>sparrow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ōppi-<c type="glide">y</c>um</form>
+<def>scared-away</def>
+<form type="simple">ōppi</form>
+<form type="sandhi"><c type="glide">y</c>ōppi</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kiḷi</form>
+<def>parakeet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭint<c type="elided">u</c>-um</form>
+<def>chased-away</def>
+<form type="simple">kaṭintu</form>
+<form type="sandhi">kaṭint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kuṉṟattu<c type="geminated">c</c></form>
+<def>hill</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceṉṟu</form>
+<def>gone</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaiki</form>
+<def>stayed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aruvi</form>
+<def>waterfall</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>āṭi-<c type="glide">y</c>um</form>
+<def>bathed</def>
+<form type="simple">āṭi</form>
+<form type="sandhi"><c type="glide">y</c>āṭi</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>cuṉai</form>
+<def>mountain pond</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭaint<c type="elided">u</c>-um</form>
+<def>dive deep</def>
+<form type="simple">kuṭaintu</form>
+<form type="sandhi">kuṭaint</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>alav<c type="elided">u</c></form>
+<def>suffering/confusion</def>
+<form type="sandhi">alav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟu</form>
+<def>had</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varuvēm</form>
+<def>we come</def>
+<gramGrp>
+  <gram type="role">first person</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">imperfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉ</form>
+<def>front</def>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṅkai</form>
+<def>kino-tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟu</form>
+<def>fragrant</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niḻaliṉ</form>
+<def>shade</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷḷi</form>
+<def>creeper/Vaḷḷi</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlvīr</form>
+<def>like you</def>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">participial noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉam</form>
+<def>mind</def>
+<form type="sandhi">maṉan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṭuṅka</form>
+<def>tremble</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iḻantu</form>
+<def>lost</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vantu</form>
+<def>come</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟīr</form>
+<def>you stood</def>
+<gramGrp>
+  <gram type="role">second person</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāvir-ō</form>
+<def>who you</def>
+<form type="simple">yāvir</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">second person</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>eṉa</form>
+<def>say</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉiyāt<c type="elided">u</c>-ē</form>
+<def>angry not</def>
+<form type="simple">muṉiyātu</form>
+<form type="sandhi">muṉiyāt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>maṇam</form>
+<def>fragrance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maturaiyōṭ<c type="elided">u</c></form>
+<def>Maturai</def>
+<form type="sandhi">maturaiyōṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aracu</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kēṭ<c type="elided">u</c></form>
+<def>loss</def>
+<form type="sandhi">kēṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟa</form>
+<def>have</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>val</form>
+<def>strong</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉai</form>
+<def>Karma</def>
+<form type="sandhi">ciṉai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vant<c type="elided">u</c></form>
+<def>come</def>
+<form type="sandhi">vant</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>urutta</form>
+<def>taken-shape</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālai<c type="geminated">k</c></form>
+<def>time</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṇavaṉai</form>
+<def>husband</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>aṅk<c type="elided">u</c></form>
+<def>thus</def>
+<form type="sandhi"><c type="glide">y</c>aṅk</form>
+</entry>
+<entry>
+<form>iḻantu</form>
+<def>lost</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōnta</form>
+<def>returned</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭu</form>
+<def>cruel</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṉaiyēṉ</form>
+<def>Karma I</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>yāṉ</form>
+<def>I</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟāḷ</form>
+<def>she said</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉṟal-um</form>
+<def>saying</def>
+<form type="simple">eṉṟal</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>iṟaiñci</form>
+<def>bowed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>añci</form>
+<def>feared</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iṇai</form>
+<def>pair</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷai<c type="geminated">k</c></form>
+<def>bangle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kai</form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>etir</form>
+<def>opposite</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kūppi</form>
+<def>joined-hands</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṉṟa</form>
+<def>stood</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">v</c>ellaiyuḷ</form>
+<def>boundary</def>
+<gramGrp>
+  <gram type="role">locative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṉavar-um</form>
+<def>celestial</def>
+<form type="simple">vāṉavar</form>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
+  <gram type="role">pronominalised noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>neṭu</form>
+<def>long</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māri</form>
+<def>shower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poḻintu</form>
+<def>overflow</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṉṟavar-um</form>
+<def>hill-they</def>
+<form type="simple">kuṉṟavar</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kaṇṭu</form>
+<def>seen</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟpa<c type="geminated">k</c></form>
+<def>stand</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḻunaṉoṭu</form>
+<def>husband</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṇṭu</form>
+<def>taken</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōyiṉār</form>
+<def>went she</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ivaḷ</form>
+<def>this-one</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōlum</form>
+<def>being similar</def>
+<form type="sandhi">pōlun</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nam</form>
+<def>our</def>
+<form type="sandhi">naṅ</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kulakk<c type="elided">u</c></form>
+<def>clan</def>
+<form type="sandhi">kulakk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>irum</form>
+<def>great</def>
+<form type="sandhi">irun</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>god</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>illai</form>
+<def>not</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>ātaliṉ</form>
+<def>because</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭiyīr-ē</form>
+<def>hamlet-you</def>
+<form type="simple">kuṭiyīr</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭiyīr-ē</form>
+<def>hamlet-you</def>
+<form type="simple">kuṭiyīr</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>god</def>
+<form type="sandhi">teyvaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷḷumiṉ</form>
+<def>take</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭiyīr-ē</form>
+<def>hamlet-you</def>
+<form type="simple">kuṭiyīr</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>niṟam</form>
+<def>colour</def>
+<form type="sandhi">niṟaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kiḷar</form>
+<def>shine</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aruvi<c type="geminated">p</c></form>
+<def>waterfall</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟampiṉ</form>
+<def>Paṟampu mountain</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāḻ</form>
+<def>hang-down</def>
+<form type="sandhi">ṟāḻ</form>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>varai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<form type="sandhi">naṟuñ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṉai</form>
+<def>branch</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēṅkai</form>
+<def>kino-tree</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<form type="sandhi">naṉ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niḻal</form>
+<def>shade</def>
+<form type="sandhi">ṉiḻaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kīḻ</form>
+<def>below</def>
+</entry>
+<entry>
+<form>ōr</form>
+<def>one</def>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>god</def>
+<form type="sandhi">teyvaṅ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḷḷumiṉ</form>
+<def>take</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṭiyīr-ē</form>
+<def>hamlet-you</def>
+<form type="simple">kuṭiyīr</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>toṇṭakam</form>
+<def>Toṇṭakam drum</def>
+<form type="sandhi">toṇṭakan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭumiṉ</form>
+<def>press</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟu</form>
+<def>small</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṟai</form>
+<def>Paṟai drum</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭumiṉ</form>
+<def>press</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōṭu</form>
+<def>bend</def>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāy</form>
+<def>mouth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaimmiṉ</form>
+<def>place</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭu</form>
+<def>curve</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṇi</form>
+<def>bell</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iyakkumiṉ</form>
+<def>make move</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuṟiñci</form>
+<def>Kuṟiñci melody</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṭumiṉ</form>
+<def>sing</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṟum</form>
+<def>fragrant</def>
+<form type="sandhi">ṉaṟum</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pukai</form>
+<def>incense</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>eṭumiṉ</form>
+<def>lift up</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pū<c type="geminated">p</c></form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pali</form>
+<def>offering</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ceymmiṉ</form>
+<def>make</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāppu<c type="geminated">k</c></form>
+<def>guarding</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭai</form>
+<def>entrance</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟumiṉ</form>
+<def>stay/stand</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paraval-um</form>
+<def>praise/worship</def>
+<form type="simple">paraval</form>
+<gramGrp>
+  <gram type="role">verbal noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>paravumiṉ</form>
+<def>spread</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viravu</form>
+<def>mix</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar</form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tūvumiṉ</form>
+<def>sprinkle</def>
+<gramGrp>
+  <gram type="role">imperative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>oru</form>
+<def>one</def>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>iḻanta</form>
+<def>lost-</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>naṅkaikku<c type="geminated">p</c></form>
+<def>lady</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peru</form>
+<def>big</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malai</form>
+<def>mountain</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuñcātu</form>
+<def>sleep-not</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+  <gram type="role">negative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷam</form>
+<def>prosperity</def>
+<form type="sandhi">vaḷañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>curakk<c type="elided">u</c></form>
+<def>pour forth</def>
+<form type="sandhi">curakk</form>
+<gramGrp>
+  <gram type="role">optative</gram>
+  <gram type="role">second person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṉa-<c type="glide">v</c>ē</form>
+<def>say</def>
+<form type="simple">eṉa</form>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+</standOff></TEI>
