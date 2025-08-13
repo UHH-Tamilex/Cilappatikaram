@@ -1,4 +1,7 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -592,7 +595,10 @@
 </entry>
 <entry>
 <form>muṉ</form>
-<def>front</def>
+<def>in front</def>
+<gramGrp>
+  <gram type="role">adverb</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>malai</form>
@@ -603,7 +609,7 @@
 </entry>
 <entry>
 <form>vēṅkai</form>
-<def>kino-tree</def>
+<def>kino tree</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -631,7 +637,7 @@
 </entry>
 <entry>
 <form>pōlvīr</form>
-<def>like you</def>
+<def>resemble you</def>
 <gramGrp>
   <gram type="role">imperfective aspect</gram>
   <gram type="role">singular</gram>
@@ -706,7 +712,7 @@
 </entry>
 <entry>
 <form>muṉiyāt<c type="elided">u</c>-ē</form>
-<def>angry not</def>
+<def>be-angry-not</def>
 <form type="simple">muṉiyātu</form>
 <form type="sandhi">muṉiyāt</form>
 <gramGrp>
@@ -762,8 +768,7 @@
 </entry>
 <entry>
 <form>viṉai</form>
-<def>Karma</def>
-<form type="sandhi">ciṉai</form>
+<def>karma</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -821,7 +826,7 @@
 </entry>
 <entry>
 <form>kaṭu</form>
-<def>cruel</def>
+<def>harsh</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
@@ -920,9 +925,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">v</c>ellaiyuḷ</form>
+<form><c type="glide">v</c>ellai</form>
 <def>boundary</def>
+</entry>
+<entry>
+<form><c type="glide">y</c>uḷ</form>
+<def>inside</def>
 <gramGrp>
+  <gram type="role">postposition</gram>
   <gram type="role">locative</gram>
 </gramGrp>
 </entry>
@@ -960,7 +970,7 @@
 </entry>
 <entry>
 <form>poḻintu</form>
-<def>overflow</def>
+<def>flown</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -1007,9 +1017,9 @@
 </entry>
 <entry>
 <form>pōyiṉār</form>
-<def>went she</def>
+<def>went they</def>
 <gramGrp>
-  <gram type="role">singular</gram>
+  <gram type="role">honorific</gram>
   <gram type="role">third person</gram>
   <gram type="role">perfective aspect</gram>
 </gramGrp>
@@ -1213,7 +1223,7 @@
 </entry>
 <entry>
 <form>vēṅkai</form>
-<def>kino-tree</def>
+<def>kino tree</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1433,7 +1443,7 @@
 </entry>
 <entry>
 <form>paraval-um</form>
-<def>praise/worship</def>
+<def>revering</def>
 <form type="simple">paraval</form>
 <gramGrp>
   <gram type="role">verbal noun</gram>
@@ -1442,7 +1452,7 @@
 </entry>
 <entry>
 <form>paravumiṉ</form>
-<def>spread</def>
+<def>rever</def>
 <gramGrp>
   <gram type="role">imperative</gram>
 </gramGrp>
@@ -1481,7 +1491,7 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>iḻanta</form>
-<def>lost-</def>
+<def>lost</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -1526,7 +1536,7 @@
 </gramGrp>
 </entry>
 <entry>
-<form>curakk<c type="elided">u</c></form>
+<form>curakk<c type="uncertain">a</c></form>
 <def>pour forth</def>
 <form type="sandhi">curakk</form>
 <gramGrp>
