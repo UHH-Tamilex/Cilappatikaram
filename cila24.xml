@@ -2552,6 +2552,9 @@
 <entry>
 <form>keḻu</form>
 <def>have</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>centil-um</form>
@@ -2699,7 +2702,7 @@
 </entry>
 <entry>
 <form>taṭinta</form>
-<def>to cut off</def>
+<def>cut off</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -2709,7 +2712,7 @@
 <form>cuṭar</form>
 <def>glow</def>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2785,7 +2788,7 @@
 </entry>
 <entry>
 <form>iṇai</form>
-<def>duplicate</def>
+<def>twin</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2837,17 +2840,10 @@
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form>piṇi</form>
-<def>scar</def>
+<form>piṇimukam</form>
+<def>Piṇimukam</def>
 <gramGrp>
-  <gram type="role">root noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>mukam</form>
-<def>face</def>
-<gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">proper name</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -2867,6 +2863,8 @@
 <form>avuṇar</form>
 <def>demon</def>
 <gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -2880,7 +2878,7 @@
 </entry>
 <entry>
 <form>aḻiyum</form>
-<def>perishing-</def>
+<def>perishing</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -2901,7 +2899,7 @@
 </entry>
 <entry>
 <form>vicumpiṉ</form>
-<def>sky</def>
+<def>heaven</def>
 <form type="sandhi">vicumpiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -2931,7 +2929,7 @@
 </entry>
 <entry>
 <form>aṭṭa</form>
-<def>kill</def>
+<def>killed</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -2955,10 +2953,10 @@
 </entry>
 <entry>
 <form>caravaṇa<c type="uncertain">m</c><c type="geminated">p</c></form>
-<def>pond</def>
+<def>Caravaṇam</def>
 <form type="sandhi">caravaṇa<c type="geminated">p</c></form>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">proper name</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3019,7 +3017,7 @@
 </entry>
 <entry>
 <form>uṇṭāṉ</form>
-<def>he ate</def>
+<def>he drank</def>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">masculine</gram>
@@ -3084,6 +3082,7 @@
 <form>avuṇaṉ</form>
 <def>Asura</def>
 <gramGrp>
+  <gram type="role">masculine singular</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -3234,7 +3233,7 @@
 </entry>
 <entry>
 <form>nōy</form>
-<def>affliction</def>
+<def>pain</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3273,9 +3272,9 @@
 </entry>
 <entry>
 <form><c type="glide">y</c>alar</form>
-<def>blossoming</def>
+<def>gossip</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3355,9 +3354,9 @@
 </entry>
 <entry>
 <form>āy</form>
-<def>choice</def>
+<def>select</def>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -3423,7 +3422,7 @@
 </entry>
 <entry>
 <form>nōy</form>
-<def>affliction</def>
+<def>pain</def>
 <form type="sandhi">ṉōy</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -3453,7 +3452,7 @@
 </entry>
 <entry>
 <form>varum</form>
-<def>coming</def>
+<def>comes</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
@@ -3484,7 +3483,7 @@
 </entry>
 <entry>
 <form>avaṉiṉ</form>
-<def>he</def>
+<def>that-one</def>
 <form type="sandhi">avaṉiṟ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -3585,7 +3584,7 @@
 </entry>
 <entry>
 <form>veṟi</form>
-<def>toddy</def>
+<def>perfume</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3608,7 +3607,7 @@
 </entry>
 <entry>
 <form>nōy</form>
-<def>affliction</def>
+<def>pain</def>
 <form type="sandhi">ṉōy</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -3655,7 +3654,7 @@
 </entry>
 <entry>
 <form>avaṉiṉ-um</form>
-<def>he</def>
+<def>that-one</def>
 <form type="simple">avaṉiṉ</form>
 <gramGrp>
   <gram type="role">oblique</gram>
@@ -3696,7 +3695,7 @@
 </entry>
 <entry>
 <form>celvaṉ</form>
-<def>prosperous-he</def>
+<def>lord</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">singular</gram>
@@ -3714,7 +3713,7 @@
 </entry>
 <entry>
 <form>varum</form>
-<def>come</def>
+<def>comes</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
@@ -3805,7 +3804,7 @@
 </entry>
 <entry>
 <form>nōy</form>
-<def>affliction</def>
+<def>pain</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3861,6 +3860,8 @@
 <form type="sandhi">ṟaṉṉiṉ</form>
 <gramGrp>
   <gram type="role">singular</gram>
+  <gram type="role">comparative</gram>
+  <gram type="role">oblique</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -3907,7 +3908,7 @@
 </entry>
 <entry>
 <form>eṉ</form>
-<def>my-</def>
+<def>my</def>
 <form type="sandhi">eṅ</form>
 <gramGrp>
   <gram type="role">singular</gram>
