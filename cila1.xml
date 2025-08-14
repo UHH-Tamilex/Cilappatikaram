@@ -1,4 +1,6 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -186,7 +188,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#cila1">
-<interp type="alignment" select="0">38MG30MG12MG97ML33MG13ML69MG12MG11MG89MG7MR6MG18MG53MG8MG11MR3ML11MR3MG51ML48MG2MG3MG13MG35MG8MG21ML7M2G2ML11MG57MG18ML4MG42MG6MG28MG45MG3MG13MG32ML29MG16MG14MG21MG27MG26MG44MG17MG27MG22MG13MG43MG133MG69MG27ML3MG32ML73MG118ML52MG4MG97MG33MG7MG7MG49MG3M,1260MG784MG</interp>
+<interp type="alignment" select="0">38MG30MG12MG22MG75ML18MR15MG13ML69MG12MG11MG89MG7MR6MG18MG53MG8MG11MR3ML11MR3MG11MR37MG3ML22MG26MG2MG3MG13MG35MG3M2G5MG21ML7M2G2ML11MG57MG18ML4MG42MG6MG28MG45MG3MG13MG32ML29MG16MG14MG21MG27MG26MG44MG17MG27MG22MG13MG43MG133MG69MG27ML3MG32ML73MG118ML52MG4MG97MG33MG7MG7MG49MG3M,1267MG784MG</interp>
 <entry>
 <form>tiṅkaḷai<c type="geminated">p</c></form>
 <def>moon</def>
@@ -281,11 +283,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>i</form>
+<form>i<c type="geminated">v</c></form>
 <def>this-</def>
-</entry>
-<entry>
-<form><c type="geminated">v</c></form>
 </entry>
 <entry>
 <form><c type="glide">v</c>am</form>
@@ -312,7 +311,7 @@
 </entry>
 <entry>
 <form>aḷittalāṉ</form>
-<def>care</def>
+<def>taking care</def>
 <gramGrp>
   <gram type="role">instrumental</gram>
   <gram type="role">verbal noun</gram>
@@ -328,6 +327,7 @@
 <entry>
 <form>pōṟṟutum</form>
 <def>praise-we</def>
+<form type="sandhi">pōṟṟutu</form>
 <gramGrp>
   <gram type="role">subjunctive</gram>
   <gram type="role">plural</gram>
@@ -415,7 +415,7 @@
 </entry>
 <entry>
 <form>tiritalāṉ</form>
-<def>turn</def>
+<def>turning</def>
 <gramGrp>
   <gram type="role">instrumental</gram>
   <gram type="role">verbal noun</gram>
@@ -468,10 +468,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>nāma</form>
-<def>fearful</def>
+<form>nāmam</form>
+<def>fear</def>
+<form type="sandhi">nāman</form>
 <gramGrp>
-  <gram type="role">adjective</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -642,7 +643,7 @@
 </entry>
 <entry>
 <form>ōṅki<c type="geminated">p</c></form>
-<def>rising</def>
+<def>become-high</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -683,7 +684,7 @@
 </entry>
 <entry>
 <form>imayam</form>
-<def>Himalayas</def>
+<def>Himalaya</def>
 <gramGrp>
   <gram type="role">proper name</gram>
 </gramGrp>
@@ -940,8 +941,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pōka(m)</form>
+<form>pōka<c type="uncertain">m</c></form>
 <def>enjoyment</def>
+<form type="sandhi">pōkan</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -998,8 +1000,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>māka(m)</form>
+<form>māka<c type="uncertain">m</c></form>
 <def>space</def>
+<form type="sandhi">māka</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1050,8 +1053,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kula(m)<c type="geminated">k</c></form>
+<form>kula<c type="uncertain">m</c><c type="geminated">k</c></form>
 <def>clan</def>
+<form type="sandhi">kula<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2326,7 +2330,7 @@
 <form>kāṇpār</form>
 <def>they witness</def>
 <gramGrp>
-<gram type="role">imperfective aspect</gram>
+  <gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
   <gram type="role">plural</gram>
 </gramGrp>
