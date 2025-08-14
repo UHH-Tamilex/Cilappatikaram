@@ -183,7 +183,7 @@
     <l>kuravai toṭuttoṉṟu pāṭukamvā tōḻi.</l>
       </lg>
       <lg xml:lang="en">
-        <l>Oh lady sweet [in] words!</l>
+        <l>Oh lady, tell [us] now!</l>
         <l>If we bathed, having dived deep in the floods that end comparison,</l>
         <l>So that [our] kajaled eyes redden,</l>
         <l>Let us sing one [song], having linked [together] the Kuravai composition</l>
@@ -2361,14 +2361,14 @@
 <interp type="alignment" select="0">48MG51MG18M,118MG</interp>
 <entry>
 <form>urai</form>
-<def>word</def>
+<def>t-_speak</def>
 <gramGrp>
-  <gram type="role">root noun</gram>
+  <gram type="role">imperative</gram>
 </gramGrp>
 </entry>
 <entry>
 <form><c type="glide">y</c>iṉi</form>
-<def>sweet</def>
+<def>now</def>
 </entry>
 <entry>
 <form>mātarāy</form>
