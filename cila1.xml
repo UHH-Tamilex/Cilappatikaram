@@ -1,6 +1,4 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -108,7 +106,7 @@
 <l>Let us praise the great raincloud, let us praise the great raincloud,</l>
 <l>Because of its pouring forth, standing above</l>
 <l>Like His [the king’s] care,</l>
-<l>To the world with the fence of fearsome water (= the ocean).</l>
+<l>To the world with the fence of fearsome water [= the ocean].</l>
 <l>Let us praise beautiful Pukār, let us praise beautiful Pukār,</l>
 <l>Because of its [superior] conduct, having spread loftily</l>
 <l>Along with His clan, for the sake of the world with a fence of swelling waters.</l>
@@ -174,7 +172,7 @@
 <l>Those with budded teeth [i.e., smiles],</l>
 <l>Those resembling golden, fragrant creepers, with tresses that bloomed with the buds [in their hair],</l>
 <l>Praising, saying, ’not separating from the lover, [their] hands that are intertwined not slipping away,</l>
-<l>May evil be severed [away]’,</l>
+<l>May evil be severed’,</l>
 <l>Sprinkling to distribute fine blossoms,</l>
 <l>They raised her who resembled Arunati [star] in [this] pretty world</l>
 <l>Onto an auspicious, good [nuptial] bed.</l>
@@ -188,7 +186,7 @@
   </body>
 </text>
 <standOff type="wordsplit" corresp="#cila1">
-<interp type="alignment" select="0">38MG30MG12MG22MG75ML18MR15MG13ML69MG12MG11MG89MG7MR6MG18MG53MG8MG11MR3ML11MR3MG11MR37MG3ML22MG26MG2MG3MG13MG35MG3M2G5MG21ML7M2G2ML11MG57MG18ML4MG42MG6MG28MG45MG3MG13MG32ML29MG16MG14MG21MG27MG26MG44MG17MG27MG22MG13MG43MG133MG69MG27ML3MG32ML73MG118ML52MG4MG97MG33MG7MG7MG49MG3M,1267MG784MG</interp>
+<interp type="alignment" select="0">38MG30MG12MG97ML33MG13ML69MG12MG11MG89MG7MR6MG18MG53MG8MG11MR3ML11MR3MG51ML48MG2MG3MG13MG35MG8MG21ML7M2G2ML11MG57MG18ML4MG42MG6MG28MG45MG3MG13MG32ML29MG16MG14MG21MG27MG26MG44MG17MG27MG22MG13MG43MG133MG69MG27ML3MG32ML73MG118ML52MG4MG97MG33MG7MG7MG49MG3M,1260MG784MG</interp>
 <entry>
 <form>tiṅkaḷai<c type="geminated">p</c></form>
 <def>moon</def>
@@ -201,7 +199,7 @@
 <def>praise-we</def>
 <form type="sandhi">pōṟṟutun</form>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -218,7 +216,7 @@
 <def>praise-we</def>
 <form type="sandhi">pōṟṟutuṅ</form>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -283,8 +281,11 @@
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">v</c></form>
+<form>i</form>
 <def>this-</def>
+</entry>
+<entry>
+<form><c type="geminated">v</c></form>
 </entry>
 <entry>
 <form><c type="glide">v</c>am</form>
@@ -311,7 +312,7 @@
 </entry>
 <entry>
 <form>aḷittalāṉ</form>
-<def>taking care</def>
+<def>care</def>
 <gramGrp>
   <gram type="role">instrumental</gram>
   <gram type="role">verbal noun</gram>
@@ -327,9 +328,8 @@
 <entry>
 <form>pōṟṟutum</form>
 <def>praise-we</def>
-<form type="sandhi">pōṟṟutu</form>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -346,14 +346,14 @@
 <def>praise-we</def>
 <form type="sandhi">pōṟṟutuṅ</form>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>kāviri</form>
-<def>Kāveri</def>
+<def>Kāviri</def>
 <gramGrp>
   <gram type="role">proper name</gram>
 </gramGrp>
@@ -415,7 +415,7 @@
 </entry>
 <entry>
 <form>tiritalāṉ</form>
-<def>turning</def>
+<def>turn</def>
 <gramGrp>
   <gram type="role">instrumental</gram>
   <gram type="role">verbal noun</gram>
@@ -439,7 +439,7 @@
 <form>pōṟṟutum</form>
 <def>praise-we</def>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -462,17 +462,16 @@
 <form>pōṟṟutum</form>
 <def>praise-we</def>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>nāmam</form>
-<def>fear</def>
-<form type="sandhi">nāman</form>
+<form>nāma</form>
+<def>fearful</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -568,7 +567,7 @@
 <form>pōṟṟutum</form>
 <def>praise-we</def>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -591,7 +590,7 @@
 <form>pōṟṟutum</form>
 <def>praise-we</def>
 <gramGrp>
-  <gram type="role">subjunctive</gram>
+  <gram type="role">subjuntive</gram>
   <gram type="role">plural</gram>
   <gram type="role">first person</gram>
 </gramGrp>
@@ -643,7 +642,7 @@
 </entry>
 <entry>
 <form>ōṅki<c type="geminated">p</c></form>
-<def>become-high</def>
+<def>rising</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -684,7 +683,7 @@
 </entry>
 <entry>
 <form>imayam</form>
-<def>Himalaya</def>
+<def>Himalayas</def>
 <gramGrp>
   <gram type="role">proper name</gram>
 </gramGrp>
@@ -941,9 +940,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>pōka<c type="uncertain">m</c></form>
+<form>pōka(m)</form>
 <def>enjoyment</def>
-<form type="sandhi">pōkan</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1000,9 +998,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>māka<c type="uncertain">m</c></form>
+<form>māka(m)</form>
 <def>space</def>
-<form type="sandhi">māka</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1053,9 +1050,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kula<c type="uncertain">m</c><c type="geminated">k</c></form>
+<form>kula(m)<c type="geminated">k</c></form>
 <def>clan</def>
-<form type="sandhi">kula<c type="geminated">k</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2330,7 +2326,7 @@
 <form>kāṇpār</form>
 <def>they witness</def>
 <gramGrp>
-  <gram type="role">imperfective aspect</gram>
+<gram type="role">imperfective aspect</gram>
   <gram type="role">third person</gram>
   <gram type="role">plural</gram>
 </gramGrp>
