@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -146,6 +143,8 @@
 <l>teṉṉavar potiyiṟ ṟeṉṟaloṭu pukuntu</l>
 <l>maṉṉavaṉ kūṭaṉ makiḻtuṇai taḻūum</l>
 <l>iṉṉiḷa vēṉil yāṇṭuḷaṉ kolleṉ</l>
+<l>ṟuruvak koṭiyō ruṭaipperuṅ koḻunaroṭu</l>
+<l>paruva meṇṇum paṭartīr kālaik</l>
 <l>kaṉṟama rāyamoṭu kaḷiṟṟiṉa naṭuṅka</l>
 <l>eṉṟūḻ niṉṟa kuṉṟukeḻu naṉṉāṭṭuk</l>
 <l>kāṭutīp piṟappak kaṉaiyeri pottik</l>
@@ -377,9 +376,11 @@
 <l>[In] the king’s Kūṭal, [the summer] having entered with the southern breeze</l>
 <l>[From] the Potiyil mountain, as the rich creeper of Mātavi [for] garlands grows,</l>
 <l>As the groves and forests offer fragrant blossoms?’</l>
+<l> During the time of ending [one's] afflctions, when creeper[-like] ladies</l>
+<l> Along with [their] great husbands reminisce [previous] times</l>
 <l>As herds of bull elephants tremble along with the female herd that desire calves,</l>
-<l>As fires [in] forests are born In the good land that has the hill [of Potiyil] in which the sun stood,</l>
-<l>As the summer king that ruled Kūṭal, having subdued intense flames,</l>
+<l>As fires [in] forests are born in the good land that has the hill [of Potiyil] in which the sun stood,</l>
+<l>As the summer king that ruled Kūṭal, having [further] ignited intense flames,</l>
 <l>Entering with the western wind, [now] setting out [to] a different region,</l>
 <l>On the last day of intense heat that sweltered (?),</l>
 <l>As the royal prince gave delight [to] committed companions</l>
@@ -391,26 +392,28 @@
 <l>That was offered by servant-girls in cups of red-gold getting drunk,</l>
 <l>Apart from the way in which spotted [and] striped groups of bees were embracing,</l>
 <l>[The girls] having scared away [the bees to] places that were empty [of bees]</l>
-<l>In the evening [with] fragrant flowers, as young pearls [= teeth] bud</l>
-<l>[On] red mouths [like] petals [of] the Ilavu flower, they with lily[-like] eyes</l>
-<l>That spoke without praise during the time of sulking [with their lovers]</l>
-<l>Will not united with [their] tongues to the phrases [through] eight [ways].</l>
-<l>[Then], as though having made open buds of pretty, red waterlilies [= having smiled]</l>
-<l>[With] words of laughter, the rich ends of brows [like] murderous bows rolling/furrowing</l>
-<l>And a battle of the flourishing ends of eyes long [like] red carps,</l>
-<l>And the streets of the guardian of the world which give joy [with girls]</l>
-<l>Who sweat, where the small foreheads [with] a Tilakam mark bud,</l>
-<l>Who observe along with [their] rich men the opportune moment,</l>
-<l>And the ladies [with] the Talaikkōl staff of an excellence which is difficult to confuse,</l>
-<l>That expounds that which is reached through the field of Abhinaya of four types of tradition,</l>
+<l> And, [in] the streets of the guardian of the world in which [girls] give joy,</l>
+<l> With rich men of prosperous houses that observe the opportune time </l>
+<l> [Of] the laugh-worthy woreds that are not pronounced [properly] with the tongue </l>
+<l> With respect to all eight [modes of pronunciation] [in their] phrases/monologues </l>
+<l> [By] girls [with] eyes [like] lilies who spoke unpraisingly of the time of sulking; </l>
+<l> So that [now, their] young pearls [= teeth] [in] red mouths [with] Ilavu-petal [lips] bud [= smile]; </l>
+<l> The battle [between] the rich [= make-up-filled] ends of long eyes [like] red carps </l>
+<l> As though the bud of the pretty, red lily was forced to bloom;</l>
+<l> And the sweat that budded on [their] small foreheads [with] a Tilaka mark </l>
+<l> So that the rich ends of [their] eyebrows [like] murderous bows rolled [= were furrowed] </l>
+<l>And the market-street with wealth that the king desires, in which prosperity whose varieties</l>
+<l>Are not discernible are mixed up, [containing] carts, two-wheeled carts, chariots (?) [with] sapphires,</l>
+<l>[With] ladies [with] the Talaikkōl staff of an excellence which is difficult to confuse,</l>
+<l>That expound that which is reached through the field of Abhinaya of four types of tradition,</l>
 <l>And the landscapes (?) of seven types, [with] lives [in] protected houses,</l>
 <l>Staying in line [with] the crowned king, [the ladies being]</l>
 <l>Of a superiority from which reproach leaves, in which they do not carry burnt tiles,</l>
 <l>Having learnt the measures of two constituents, namely the royal nature and the public nature,</l>
 <l>Having fully understood the orchestral instruments that join [with]</l>
 <l>Dancing of an unconfused tradition, the Vari dance, the Pāṇi songs and Tūkku music (?),</l>
-<l>The girls that are [from] ancient [traditions] that sing Vāram songs,</l>
-<l>The dancing girl of the main song and the dancing girl of the secondary song</l>
+<l>[With] girls that are [from] ancient [traditions] that sing Vāram songs,</l>
+<l>[With] dancing girl of the main song and the dancing girl of the secondary song</l>
 <l>Not deviating in daily manners [= duties] that do not obstruct [with respect to]</l>
 <l>Balancing the eight [notes till] the end, belonging to the usages befitting of joy</l>
 <l>Of four distinct types, [with] 1008 Kaḻañcus [of gold as a reward],</l>
@@ -421,8 +424,6 @@
 <l>As though having been caught in a net of glances by those ladies like attacking spirits,</l>
 <l>Whether they are young men who look for an enjoyable time</l>
 <l>Like bees [to their] befitting flowers, or whether they are innocent ladies with passionate guests,</l>
-<l>And the market-street with wealth that the king desires, in which prosperity whose varieties</l>
-<l>Are not discernible are mixed up, [containing] carts, two-wheeled carts, chariots (?) [with] sapphires,</l>
 <l>Armour into which the body enters, [elephant-] goads [with] desirous sapphires,</l>
 <l>Protection to wear [on] the skin, cures that stop itching/festering,</l>
 <l>Round/globular balls (bludgeons? Perfumed bludgeons?), pure white chowries,</l>
@@ -471,7 +472,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#cila14"><interp type="alignment" select="0">16MG19MG21MG12MG105MG38MG12MG7MG14ML6MG31MG25MG5MG27MG7MG28MG24MG87MG11ML60MG70MG3ML29MG31M2G11MG5MG64MG31MG3MG12ML21MG20MG6MG26MG28MG8MG10MG49MG22MG16MG6MG6ML13MG28MG5MG23MG11MG6MG11MG67MG14MG3MG27M2G44MG64ML29MG4MG7ML7M2G7MG14MG14ML88MG27MG25M2G28MG13MG10MG47M2G9MG22MG13MG3MG5MG89MR81MG11MG3MG20MG15MG12MG17MG76MG92MG20MG17MG17MG8MG111ML7MG9MG14MG11MG6MG3MG16MR53MG5MG3MG6MG8MG116MG59MG57MG13MG72MR18ML8MG4ML38MG16MG50MG8ML11MG2ML6MG32ML26MG30MG6MG6MG2MG10MG17MG25MG7MG6MG7MG16MG8MG43ML46M2GMG4MG34MG8MG91MG10M2G4MG17MG3MR151MG9MG44MG17MG11MG9MG14MG145MG18MG25MG10MG3MG4MG18MG28MG36MR27MG20MG6MG12ML23MG43MG82MG39MG27MG60MG6MG7MG7M2G16MG7MG32MG9MG17MG23MG27MG27MG20MG19MG18ML3MG37MG8M2G2ML31MG5MG25MG13M2G12MG16MG47MG6MG19MG5MG24MG7MG40MG9MG8MG2ML15MG17MG15MG19MG12MG18MG14MG6MG6MG14MG6MG6MG16MG14MG8MG7MG15MG3ML14MG9MG6MG18MG10MG8MG15MG13MG51MG7MG5MG10MG7MG7MG2MR74MG7MG3ML4MG2MG17MG22MG10MGMR5MG8MG9MG31MG7MG18MG6MG6MG19MG5MG7ML5MG6MG9MG5MG47MR16MG8MG2ML5MG8MGMR5MG31MG14MG33MG7MG10MG8MG19MG28MG18ML8MG34MG79MG12MG17MR14MG8MG2ML6MGMR14MG23MG35MG60MG20MG41MG28MG7MG11MG11MG9MG9MG3ML4M2G15MG81MG38MG2M,6666M</interp>
+<standOff type="wordsplit" corresp="#cila14">
+<interp type="alignment" select="0">16MG19MG21MG12MG105MG38MG12MG7MG14ML6MG31MG25MG5MG27MG7MG28MG24MG87MG11ML60MG70MG3ML29MG31M2G11MG5MG64MG31MG3MG12ML21MG20MG6MG26MG28MG8MG10MG49MG22MG16MG6MG6ML13MG28MG5MG23MG11MG6MG11MG67MG14MG3MG27M2G44MG64ML29MG4MG7ML7M2G7MG14MG14ML88MG27MG25M2G28MG13MG10MG47M2G9MG22MG13MG3MG5MG89MR81MG11MG3MG20MG15MG12MG17MG76MG92MG20MG17MG17MG8MG111ML7MG9MG14MG11MG6MG3MG16MR53MG5MG3MG6MG8MG116MG59MG57MG13MG72MR18ML8MG4ML38MG16MG50MG8ML11MG2ML6MG32ML26MG30MG6MG6MG2MG10MG17MG25MG7MG6MG7MG16MG8MG43ML46M2GMG4MG34MG8MG91MG11MG5MG58MG17MG3MR151MG9MG15MG29MG17MG11MG9MG14MG145MG18MG25MG10MG3MG4MG18MG28MG36MR27MG20MG6MG12ML23MG43MG23MG59MG39MG27MG60MG6MG7MG7M2G16MG7MG32MG9MG17MG23MG27MG27MG20MG19MG18ML3MG37MG8M2G2ML31MG5MG25MG13M2G12MG16MG47MG6MG19MG5MG24MG7MG40MG9MG8MG2ML15MG17MG15MG19MG12MG18MG14MG6MG6MG14MG6MG6MG16MG14MG8MG7MG15MG3ML14MG9MG6MG18MG10MG8MG15MG13MG51MG7MG5MG10MG7MG7MG2MR74MG7MG3ML4MG2MG17MG22MG10MGMR5MG8MG9MG31MG7MG18MG6MG6MG19MG5MG7ML5MG6MG9MG5MG47MR16MG8MG2ML5MG8MGMR5MG31MG14MG33MG7MG10MG8MG19MG28MG18ML8MG34MG79MG12MG17MR14MG8MG2ML6MGMR14MG23MG35MG60MG20MG41MG28MG7MG11MG11MG9MG9MG3ML4M2G15MG81MG38MG2M,6728M</interp>
 <entry>
 <form>puṟam</form>
 <def>outside</def>
@@ -5112,9 +5114,80 @@
 <entry>
 <form><c type="geminated">l</c>eṉṟ<c type="elided">u</c></form>
 <def>said</def>
-<form type="sandhi"><c type="geminated">l</c>eṉ</form>
+<form type="sandhi"><c type="geminated">l</c>eṉṟ</form>
 <gramGrp>
   <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uruva<c type="uncertain">m</c><c type="geminated">k</c></form>
+<def>form/shape</def>
+<form type="sandhi">uruva<c type="geminated">k</c></form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭiyōr</form>
+<def>creeper-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭai<c type="geminated">p</c></form>
+<def>have/possess</def>
+</entry>
+<entry>
+<form>perum</form>
+<def>great</def>
+<form type="sandhi">peruṅ</form>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koḻunaroṭu</form>
+<def>husband</def>
+<gramGrp>
+  <gram type="role">sociative</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paruvam</form>
+<def>time period</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eṇṇum</form>
+<def>think about</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭar</form>
+<def>affliction</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīr</form>
+<def>to end</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kālai<c type="geminated">k</c></form>
+<def>time</def>
+<gramGrp>
+  <gram type="role">postposition</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -5241,7 +5314,7 @@
 </entry>
 <entry>
 <form>potti<c type="geminated">k</c></form>
-<def>subdued</def>
+<def>ignited</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -5300,7 +5373,7 @@
 </entry>
 <entry>
 <form>pulam</form>
-<def>soil</def>
+<def>region</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -5374,18 +5447,20 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kālam</form>
-<def>time</def>
+<form>kāl</form>
+<def>leg</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>aḷiyum</form>
-<def>grant</def>
+<form>amaḷi-<c type="glide">y</c>um</form>
+<def>bed</def>
+<form type="simple">amaḷi</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>uyyāṉattiṉ</form>
@@ -5419,7 +5494,7 @@
 </entry>
 <entry>
 <form>cāmarai<c type="geminated">k</c></form>
-<def>yak-tail fan</def>
+<def>yak-tail faƒn</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -6083,11 +6158,13 @@
 </gramGrp>
 </entry>
 <entry>
-<form>viyarum</form>
-<def>to sweat</def>
+<form>viyar-um</form>
+<def>sweat</def>
+<form type="simple">viyar</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
 <form>cevvi</form>
@@ -9005,5 +9082,6 @@
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
