@@ -2191,8 +2191,11 @@
 <def>going</def>
 <form type="sandhi">pōntataṟk</form>
 <gramGrp>
-  <gram type="role">verbal noun</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">dative</gram>
+  <gram type="role">neuter</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">perfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
