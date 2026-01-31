@@ -1,4 +1,5 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -57,9 +58,6 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <entry>
 <form>aṉṟu</form>
 <def>that day</def>
-<gramGrp>
-  <gram type="role">neuter singular</gram>
-</gramGrp>
 </entry>
 <entry>
 <form>toṭṭu<c type="geminated">p</c></form>
@@ -72,6 +70,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <form>pāṇṭiyaṉ</form>
 <def>Pāṇṭiya</def>
 <gramGrp>
+  <gram type="role">masculine singular</gram>
   <gram type="role">proper name</gram>
 </gramGrp>
 </entry>
@@ -137,7 +136,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 </entry>
 <entry>
 <form>kuruv<c type="elided">u</c>-um</form>
-<def>boils</def>
+<def>boil</def>
 <form type="simple">kuruvu</form>
 <form type="sandhi">kuruv</form>
 <gramGrp>
@@ -147,7 +146,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 </entry>
 <entry>
 <form>toṭara<c type="geminated">k</c></form>
-<def>following</def>
+<def>follow</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
 </gramGrp>
@@ -180,6 +179,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <form>ceḻiyaṉ</form>
 <def>Ceḻiyaṉ</def>
 <gramGrp>
+  <gram type="role">masculine singular</gram>
   <gram type="role">proper name</gram>
 </gramGrp>
 </entry>
@@ -204,6 +204,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <def>smith</def>
 <gramGrp>
   <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
@@ -213,6 +214,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
   <gram type="role">accusative</gram>
 </gramGrp>
 </entry>
@@ -234,7 +236,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <form>vēḷviyāl</form>
 <def>sacrifice</def>
 <gramGrp>
-  <gram type="role">noun</gram>
+  <gram type="role">instrumental</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -308,7 +310,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 </entry>
 <entry>
 <form>nīṅkiyatu</form>
-<def>abated</def>
+<def>abated-it</def>
 <gramGrp>
   <gram type="role">perfective aspect</gram>
   <gram type="role">neuter singular</gram>
@@ -327,10 +329,12 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 </entry>
 <entry>
 <form>Koṅkiḷaṅkōcar</form>
-<def>KoṅkiḷaṅKōcar</def>
+<def>Koṅkiḷaṅkōcar</def>
 <form type="sandhi">koṅkiḷaṅkōcar</form>
 <gramGrp>
   <gram type="role">proper name</gram>
+  <gram type="role">honorific</gram>
+  <gram type="role">third person</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -339,7 +343,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <form type="sandhi">taṅkaṇ</form>
 <gramGrp>
   <gram type="role">pronoun</gram>
-  <gram type="role">honorific</gram>
+  <gram type="role">plural</gram>
   <gram type="role">third person</gram>
 </gramGrp>
 </entry>
@@ -467,6 +471,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">pronominalised noun</gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -552,7 +557,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 </entry>
 <entry>
 <form>tarum</form>
-<def>giving-</def>
+<def>giving</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -576,7 +581,7 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 <form>āṭi<c type="geminated">t</c></form>
 <def>Āṭi month</def>
 <gramGrp>
-  <gram type="role">proper name</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -587,15 +592,8 @@ maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟ�
 </gramGrp>
 </entry>
 <entry>
-<form>aka</form>
+<form>akavaiyiṉ</form>
 <def>inside</def>
-<gramGrp>
-  <gram type="role">noun</gram>
-</gramGrp>
-</entry>
-<entry>
-<form>vaiyiṉ</form>
-<def>at</def>
 <gramGrp>
   <gram type="role">oblique</gram>
 </gramGrp>
