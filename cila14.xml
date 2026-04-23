@@ -462,12 +462,12 @@
 <l>As those with a full [= heavy?] wooden-stick balance, those with barrels for the Paṟai drum,</l>
 <l>And those that measure [with] a wooden scale (?) wander about everywhere,</l>
 <l>And the grain-streets in which grains were heaped along with sacks of black pepper</l>
-<l>Regardless of the season, and the market/bazaar-street [with] the evening [place] (?), and the squares,</l>
+<l>Regardless of the season, and the market/bazaar-street [with] junctions and squares,</l>
 <l>And the four different streets whose distinction was clear,</l>
 <l>[Thus], Kōvalaṉ having roamed [in such] common areas, forked roads and streets,</l>
 <l>Having seen the great town of the Guardian [= Pāṇṭiya king] [under] the shade</l>
 <l>Of an arbour [with] a banner [like] a green/fresh creeper, into which the hot rays</l>
-<l>That had roamed in the belly of the skies does not enter, reaching [a state of] joy,</l>
+<l>That had wrung [dry] the belly of the skies does not enter, reaching [a state of] joy,</l>
 <l>He went to the outside of the bannered fortress.</l>     </lg>
     </div>
   </body>
@@ -7455,9 +7455,11 @@
 </entry>
 <entry>
 <form>pukaiya-<c type="glide">v</c>um</form>
-<def>smoke-they</def>
+<def>smoked-they</def>
 <form type="simple">pukaiya</form>
 <gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -7484,6 +7486,8 @@
 <def>adorn-they</def>
 <form type="simple">puṉaina</form>
 <gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -7952,7 +7956,7 @@
 </entry>
 <entry>
 <form>maṭṭ<c type="elided">u</c></form>
-<def>fermented licquor</def>
+<def>fermented liquor</def>
 <form type="sandhi">maṭṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -7963,6 +7967,8 @@
 <def>form</def>
 <form type="simple">uruva</form>
 <gramGrp>
+  <gram type="role">pronominalised noun</gram>
+
   <gram type="role">neuter plural</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
@@ -8155,8 +8161,9 @@
 <def>resolved</def>
 <form type="simple">tuṇinta</form>
 <gramGrp>
-  <gram type="role">peyareccam</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">perfective aspect</gram>
+  <gram type="role">neuter singular</gram>
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
@@ -8629,7 +8636,7 @@
 <form>maṭi</form>
 <def>garment/cloth</def>
 <gramGrp>
-  <gram type="role">verbal root</gram>
+  <gram type="role">root noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -8842,7 +8849,7 @@
 </entry>
 <entry>
 <form>anti-<c type="glide">y</c>um</form>
-<def>twilight</def>
+<def>junction</def>
 <form type="simple">anti</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -8904,7 +8911,7 @@
 </entry>
 <entry>
 <form>tirintu</form>
-<def>turned</def>
+<def>roamed about</def>
 <gramGrp>
   <gram type="role">absolutive</gram>
 </gramGrp>
@@ -8926,7 +8933,7 @@
 </entry>
 <entry>
 <form>tirukiya</form>
-<def>roamed</def>
+<def>wrung</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
