@@ -125,10 +125,6 @@ a[href]::after {
 a[href] {
     color: #A85110;
 }
-#tooltip a[href] {
-    color: white;
-    text-decoration: underline;
-}
 
 a[href]:hover {
     color: #2B73B7;
@@ -142,7 +138,7 @@ a[href^='http://']::after, a[href^='https://']::after {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    /*background-color: rgb(255,255,248);*/
+    background-color: rgb(255,255,248);
     padding-right: 0.8rem;
 }
 a[href^='http://']:hover::after, a[href^='https://']:hover::after {
@@ -150,18 +146,15 @@ a[href^='http://']:hover::after, a[href^='https://']:hover::after {
     background-size: contain;
     background-repeat: no-repeat;
     background-position: center center;
-    /*background-color: rgb(255,255,248);*/
+    background-color: rgb(255,255,248);
     padding-right: 0.8rem;
 }
 
-a[href^='https://']:has(img)::after, a[href^='https://']:has(img):hover::after, a.graph-bar[href^='https://']::after {
+a[href^='https://']:has(img)::after, a[href^='https://']:has(img):hover::after {
     background: none;
-    text-decoration: none;
 }
-
-a[href^='https://']:has(img), a[href^='https://']:has(img):hover, a.graph-bar[href^='https://'], a.graph-bar[href^='https://']:hover {
+a[href^='https://']:has(img), a[href^='https://']:has(img):hover {
     background: none;
-    text-decoration: none;
 }
 
 .cert-low::after {

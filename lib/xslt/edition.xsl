@@ -79,14 +79,6 @@
         </xsl:element>
         <xsl:element name="link">
             <xsl:attribute name="rel">stylesheet</xsl:attribute>
-            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/lint.css</xsl:attribute>
-        </xsl:element>
-        <xsl:element name="link">
-            <xsl:attribute name="rel">stylesheet</xsl:attribute>
-            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/show-hint.css</xsl:attribute>
-        </xsl:element>
-        <xsl:element name="link">
-            <xsl:attribute name="rel">stylesheet</xsl:attribute>
             <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/prism.css</xsl:attribute>
         </xsl:element>
         <xsl:element name="script">
@@ -184,13 +176,13 @@
                         </div>
                         <div class="boxen">
                             <div>
-                                <label>Tamil wordsplit</label><textarea id="tamsplit" data-mode="wordsplit" spellcheck="false"></textarea>
+                                <label>Tamil wordsplit</label><textarea spellcheck="false"></textarea>
                             </div>
                             <div>
                                 <label>Word-by-word translation</label>
                                 <div id="wbwbox">
-                                    <textarea id="engsplit" data-mode="glossing" spellcheck="false"></textarea>
-                                    <textarea id="splitnotes" class="notes" spellcheck="false"></textarea>
+                                    <textarea id="engsplit" spellcheck="false"></textarea>
+                                    <textarea class="notes" spellcheck="false"></textarea>
                                     <div class="switcher" id="notesswitcher">
                                         <div class="selected">Splits</div>
                                         <div>Notes</div>
