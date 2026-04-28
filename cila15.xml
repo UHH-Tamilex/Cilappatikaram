@@ -124,7 +124,7 @@
 <l>tiruttaku māmaṇik koḻuntuṭaṉ pōntatu</l>
 <l>viruttakō pāla nīyeṉa viṉavak</l>
 <l>kōvalaṉ kūṟumōr kuṟumakaṉ ṟaṉṉāṟ</l>
-<l>kāval vēntaṉ kaṭinakar taṉṉil</l>
+<l>kāval vēntaṉ kaṭinakar taṉṉiṉ</l>
 <l>nāṟaiṅ kūnta ṉaṭuṅkutuya reytak</l>
 <l>kūṟaikōṭ paṭṭuk kōṭṭumā vūravum</l>
 <l>aṇittaku purikuḻa lāyiḻai taṉṉoṭum</l>
@@ -136,7 +136,7 @@
 <l>naṉavu pōla naḷḷiruḷ yāmattuk</l>
 <l>kaṉavu kaṇṭēṉ kaṭitīṅ kuṟumeṉa</l>
 <l>aṟantuṟai mākkaṭ kalla tintap</l>
-<l>paṟacciṟai yirukkai poruntā tākaliṉ</l>
+<l>puṟacciṟai yirukkai poruntā tākaliṉ</l>
 <l>araicar piṉṉō rakanakar maruṅkiṉiṉ</l>
 <l>uraiyiṟ koḷvariṅ koḻikaniṉ ṉiruppuk</l>
 <l>kātali taṉṉoṭu katircel vataṉmuṉ</l>
@@ -152,7 +152,7 @@
 <l>kōvalar vāḻkkaiyōr koṭumpā ṭillai</l>
 <l>tītilaṇ mutumakaḷ cevviya ḷaḷiyaḷ</l>
 <l>mātari taṉṉuṭaṉ maṭantaiyai iruttutaṟ</l>
-<l>kēta miṉṟeṉa veṇṇiṉa ḷāka</l>
+<l>kēta miṉṟeṉa veṇṇiṉa ḷāki</l>
 <l>mātari kēḷim maṭantaitaṉ kaṇavaṉ</l>
 <l>tātaiyaik kēṭkiṟ ṟaṉkula vāṇar</l>
 <l>arumporuḷ peṟunariṉ viruntetir koṇṭu</l>
@@ -354,18 +354,18 @@
         <l>When the lady of great penance [Kāvunti] and the first one of the great Vedas</l>
         <l>Told Kovālaṉ, ‘Because this abode [in] the outer boundary [of Maturai]</l>
         <l>Is not suitable, except for to people [in] the domain of Dharma,</l>
-        <l>In the wide city, the people who come after the kind [= Vaiśyas] will take [you in]</l>
+        <l>Inside city, the people who come after the kind [= Vaiśyas] will take [you in]</l>
         <l>Because of your explanation [of wanting to sell the anklet].</l>
         <l>Leave your place here. Before the sun goes away [= sets],</l>
         <l>Enter with your beloved lady the great city of Maturai with mansions.’</l>
         <l>[Just then], an ancient cowherdress woman who was called Mātari,</l>
         <l>Would walk by as is habit, having offered milk [and] cooked rice</l>
-        <l>To the Yakkiṉi [with] flower-eyes in the outskirts of the ancient town</l>
+        <l>To the Iyakkiṉi [with] flower-eyes in the outskirts of the ancient town</l>
         <l>In which the [number of] Dharmic people was many.</l>
-        <l>Having seen the mother Kāvunti, worshipping [her] feet,</l>
+        <l>Having seen the mother Kāvunti, as soon as she bowed [to her] feet,</l>
         <l>[Kāvunti] being one who thought, ’There is not a single cruel thing [about]</l>
         <l>The livelihood of cowherds who, having protected [and] guarded cows,</l>
-        <l>Distribute [their] yield. [This] ancient lady is not evil. She is perfect, she is caring.</l>
+        <l>Providing [their] yield. [This] ancient lady is not evil. She is perfect, she is caring.</l>
         <l>There is no danger in placing the girl [Kaṇṇaki] [in the care of] Mātari.’</l>
         <l>As Kāvunti said, ‘Mātari, listen. If the nobles of your clan hear of</l>
         <l>The father of this girl’s husband, receiving [them as] guests</l>
@@ -4186,7 +4186,7 @@
 </entry>
 <entry>
 <form>ummai<c type="geminated">p</c></form>
-<def>next birth</def>
+<def>previous birth</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -4383,17 +4383,17 @@
 </entry>
 <entry>
 <form>nakar</form>
-<def>mansion</def>
+<def>city</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>taṉṉil</form>
+<form>taṉṉiṉ</form>
 <def>self</def>
 <gramGrp>
   <gram type="role">pronoun</gram>
-  <gram type="role">locative</gram>
+  <gram type="role">oblique</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -4567,7 +4567,7 @@
 </entry>
 <entry>
 <form>peṟṟi</form>
-<def>pretext</def>
+<def>goal/achievement</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -4838,9 +4838,9 @@
 </gramGrp>
 </entry>
 <entry>
-<form>paṟa<c type="uncertain">m</c><c type="geminated">c</c></form>
+<form>puṟa<c type="uncertain">m</c><c type="geminated">c</c></form>
 <def>outside</def>
-<form type="sandhi">paṟa<c type="geminated">c</c></form>
+<form type="sandhi">puṟa<c type="geminated">c</c></form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -4887,8 +4887,8 @@
 </gramGrp>
 </entry>
 <entry>
-<form>akal</form>
-<def>wide</def>
+<form>akam</form>
+<def>inside</def>
 <form type="sandhi">akan</form>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -5203,16 +5203,15 @@
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇi</form>
-<def>eye-she</def>
+<form>kaṇ</form>
+<def>eye</def>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">feminine singular</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">y</c>akkikku<c type="geminated">p</c></form>
-<def>yakkiṉi/Jain deity</def>
+<form>iyakkikku<c type="geminated">p</c></form>
+<def>Iyakkiṉi/Jain deity</def>
 <gramGrp>
   <gram type="role">feminine singular</gram>
   <gram type="role">noun</gram>
@@ -5373,7 +5372,7 @@
 </entry>
 <entry>
 <form>aḷikkum</form>
-<def>bestow</def>
+<def>provide</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
 </gramGrp>
@@ -5498,7 +5497,7 @@
 </entry>
 <entry>
 <form>ētam</form>
-<def>danger</def>
+<def>evil</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -5525,10 +5524,10 @@
 </gramGrp>
 </entry>
 <entry>
-<form>āka</form>
-<def>become</def>
+<form>āki</form>
+<def>became</def>
 <gramGrp>
-  <gram type="role">infinitive</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -5608,10 +5607,12 @@
 </entry>
 <entry>
 <form>vāṇar</form>
-<def>noblemen</def>
+<def>live-they</def>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
+  <gram type="role">participial noun</gram>
   <gram type="role">third person</gram>
+  <gram type="role">plural </gram>
+  <gram type="role">imperfective aspect</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -5670,7 +5671,7 @@
 </entry>
 <entry>
 <form>taṭam</form>
-<def>duty</def>
+<def>width</def>
 <form type="sandhi">taṭaṅ</form>
 <gramGrp>
   <gram type="role">noun</gram>
