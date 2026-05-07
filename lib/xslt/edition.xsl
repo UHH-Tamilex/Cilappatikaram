@@ -79,6 +79,14 @@
         </xsl:element>
         <xsl:element name="link">
             <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/lint.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
+            <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/show-hint.css</xsl:attribute>
+        </xsl:element>
+        <xsl:element name="link">
+            <xsl:attribute name="rel">stylesheet</xsl:attribute>
             <xsl:attribute name="href"><xsl:value-of select="$root"/>debugging/prism.css</xsl:attribute>
         </xsl:element>
         <xsl:element name="script">
@@ -176,13 +184,13 @@
                         </div>
                         <div class="boxen">
                             <div>
-                                <label>Tamil wordsplit</label><textarea spellcheck="false"></textarea>
+                                <label>Tamil wordsplit</label><textarea id="tamsplit" data-mode="wordsplit" spellcheck="false"></textarea>
                             </div>
                             <div>
                                 <label>Word-by-word translation</label>
                                 <div id="wbwbox">
-                                    <textarea id="engsplit" spellcheck="false"></textarea>
-                                    <textarea class="notes" spellcheck="false"></textarea>
+                                    <textarea id="engsplit" data-mode="glossing" spellcheck="false"></textarea>
+                                    <textarea id="splitnotes" class="notes" spellcheck="false"></textarea>
                                     <div class="switcher" id="notesswitcher">
                                         <div class="selected">Splits</div>
                                         <div>Notes</div>
@@ -225,6 +233,10 @@
                                 <div>
                                     <input type="checkbox" id="mergerdgs" checked="true"/>
                                     <label>Merge groups</label>
+                                </div>
+                                <div>
+                                    <input type="checkbox" id="maxom" checked="true"/>
+                                    <label>Separate note for omissions over <input type="number" id="maxomlen" value="20" style="width: 6ch"/> characters</label>
                                 </div>
                                 <div id="filefinder">
                                     <span>Found file: </span><span style="font-weight: bold" id="foundfile"></span>

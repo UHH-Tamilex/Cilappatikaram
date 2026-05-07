@@ -9,14 +9,16 @@
     width: 100vw;
     height: 100vh;
     background: rgba(50,50,50,0.5);
+    -webkit-backdrop-filter: blur(5px) saturate(150%);
     backdrop-filter: blur(5px) saturate(150%);
 }
 
 .popup {
     width: 100%;
+    max-width: 97vw;
     min-height: 50%;
     height: fit-content;
-    max-height: 100vh;
+    max-height: 95vh;
     background: rgba(245,242,240,0.65);
     padding: 1rem;
     margin: 1rem;
@@ -42,6 +44,7 @@
     margin-right: 0.5rem;
     display: flex;
     flex-direction: column;
+    width: 100%;
 }
 
 .popup select {
@@ -63,7 +66,7 @@
     opacity: 0.65;
 }
 
-.popup textarea.notes {
+#engsplit, .popup textarea.notes {
     display: none;
 }
 
@@ -191,6 +194,14 @@ th.superEntry {
     border-left: 2px solid black;
 }
 
+tr.main {
+  box-shadow: inset 2px 2px gray, inset -2px -2px gray;
+}
+
+tr.supp {
+  opacity: 0.5;
+}
+
 .closeicon {
     display: flex;
     justify-content: flex-end;
@@ -204,6 +215,7 @@ th.superEntry {
 }
 
 .closeicon svg:hover {
+    -webkit-filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.3));
     filter: drop-shadow(2px 2px 1px rgba(0,0,0,0.3));
 }
 .closeicon svg:hover {
@@ -213,6 +225,7 @@ th.superEntry {
 #wbwbox {
     display: flex;
     flex-grow: 1;
+    max-height: 100%;
 }
 #wbwbox textarea {
     flex-grow: 1;
@@ -269,10 +282,16 @@ th.superEntry {
 /*#topbar*/ button {
     margin: 0.3em 0 0.3em 0.5em;
     background-color: rgb(240,202,121);
-    border-color: rgb(240,202,121);
+    /*border-color: rgb(240,202,121);*/
+    border-top: 2px solid rgb(240,202,121);
+    border-right: 2px solid rgb(240,202,121);
+    border-left: 2px solid rgba(0,0,0,0.2);
+    border-bottom: 2px solid rgba(0,0,0,0.2);
+    /*box-shadow: -1px 1px 1px 1px rgba(0,0,0,0.45);*/
     border-radius: 0.3rem;
     color: black;
     height: fit-content;
+    width: fit-content;
     font-size: 1.1rem;
     padding: 0.2rem 0.4rem 0.2rem 0.4rem;
 }
@@ -283,7 +302,8 @@ button.important {
 }
 /*#topbar*/ button:hover/*, #topbar #button_savebutton:hover*/ {
     background-color: #eeee99;
-    border-color: #eeee00;
+    border-top: 2px solid #eeee99;
+    border-right: 2px solid #eeee99;
     color: black;
 }
 button[disabled] {
@@ -304,11 +324,13 @@ button.important[disabled]:hover {
     display: none;
 }
 
-button.pressed {
+button.pressed, button:active {
     background-color: rgb(238,238,153);
-    border-style: inset;
-    border-bottom-color: rgb(238,238,153);
-    border-right-color: rgb(238,238,153);
+    box-shadow: none;
+    border-top: 2px solid rgba(0,0,0,0.2);
+    border-right: 2px solid rgba(0,0,0,0.2);
+    border-bottom: 2px solid rgb(238,238,153);
+    border-left: 2px solid rgb(238,238,153);
 }
 
 .editmenu {
@@ -322,7 +344,6 @@ button.pressed {
     height: 1.4rem;
     width: 1.2rem;
     background-color: rgb(240,202,121);
-    border-color: rgb(240,202,121);
     border-radius: 0.3rem;
     padding: 0;
     margin: 0;
@@ -330,12 +351,11 @@ button.pressed {
 .editmenu button svg {
     height: 0.7rem;
     width: 0.7rem;
-    position: relative;
     top: -0.1rem;
+    position: relative;
 }
 .editmenu button:hover {
     background-color: #eeee99;
-    border-color: #eeee00;
 }
 
 .edited {
@@ -345,3 +365,13 @@ button.pressed {
     margin-left: -5px;
     padding-left: 5px;
 }
+.alignedit {
+    font-size: 0.8rem;
+    left: 0.1rem;
+    top: 0.1rem;
+    height: 1.4rem;
+    width: 1.2rem;
+    border-radius: 0.3rem;
+    padding: 0;
+}
+
