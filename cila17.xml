@@ -110,6 +110,35 @@ in front of us with Māyavaṉ upon the dung[-covered] village common, so that  
 the calves [of] the milk-cows.’
   </p>
 </div>
+    <div rend="parallel">
+    <p>
+      <head type="subtitle">koḷu </head>
+    </p>
+<p xml:lang="en">
+  <head type="subtitle">The concept. </head>
+</p>
+  </div>
+<div rend="parallel">
+  <lg xml:id="cila17.4">
+<l>kāri kataṉ añcāṉ pāyntāṉai+ kāmuṟum i+ ~ēri malar+ kōtaiyāḷ cuṭṭu</l>
+<l>neṟṟi+ cekilai ~aṭarttāṟk* uriya ~i+ poṉ toṭi mātarāḷ tōḷ</l>
+<l>mallaṉ maḻa viṭai ~ūrntāṟk* uriyaḷ i+ mullaiyam pūm kuḻal tāṉ</l>
+<l>nuṇ poṟi veḷḷai ~aṭarttāṟk*-ē ~ākum i+ peṇ koṭi mātar taṉ tōḷ</l>
+<l>poṉ poṟi veḷḷai ~aṭarttāṟk*-ē ~ākum i+ nal koṭi mel mulai tāṉ</l>
+<l>veṉṟi maḻa viṭai ~ūrntāṟk* uriyaḷ i+ koṉṟaiyam pūm kuḻalāḷ</l>
+<l>tū niṟa(m) veḷḷai ~aṭarttāṟk* uriyaḷ i+ pūvai+ putu malarāḷ</l>
+  </lg>
+<lg xml:lang="en">
+<l>This girl with a garland of lake flowers who has desire for him who mounted-[being] one who was not afraid-the black bull —</l>
+<l>[Such are your] designations;</l>
+<l>The shoulders of this golden-braceleted beauty are suitable for him who conquered [the bull with] the red mark [on] the forehead;</l>
+<l>She—this [girl with] curls [with] Mullai flowers—is suitable for him who mounted [as] a warrior] the young [= untamed] bull;</l>
+<l>The shoulders of this beauty [like] a girl [as] a creeper are suitable only for him who conquered the white bull [with] fine spots;</l>
+<l>The soft breasts of her—this good creeper—are suitable only for him who conquered the white bull [with] gold spots;</l>
+<l>This girl with curls [that have] laburnum flowers is suitable for him who mounted the victorious, young bull;</l>
+<l>This girl with fresh bilberry flowers is suitable for him who conquered the white bull [with] a pure colour;</l>
+      </lg>
+</div>
   </body>
 </text>
 <standOff corresp="#cila17.1" type="wordsplit">
@@ -1219,4 +1248,530 @@ the calves [of] the milk-cows.’
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
-</TEI>
+<standOff corresp="#cila17.4" type="wordsplit">
+<interp type="alignment" select="0">358M,358M</interp>
+<entry>
+<form>kāri</form>
+<def>black thing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kataṉ</form>
+<def>fury</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>añcāṉ</form>
+<def>fear-not-he</def>
+<gramGrp>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāyntāṉai<c type="geminated">+</c></form>
+<def>leapt-he</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+  <gram type="role">masculine singular</gram>
+  <gram type="role">perfective aspect</gram>
+  <gram type="role">participial noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kāmuṟum</form>
+<def>desire-has</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form><c type="glide">~</c>ēri</form>
+<def>lake</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malar<c type="geminated">+</c></form>
+<def>blossom</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōtaiyāḷ</form>
+<def>garland-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cuṭṭu</form>
+<def>designation</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>neṟṟi<c type="geminated">+</c></form>
+<def>front</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cekilai</form>
+<def>red mark</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c></form>
+<def>conquered-he</def>
+<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriya</form>
+<def>suitable-they</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">neuter plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi</form>
+<def>bracelet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mātarāḷ</form>
+<def>beauty-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mallaṉ</form>
+<def>prosperous-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maḻa</form>
+<def>youth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭai</form>
+<def>bull</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>ūrntāṟk<c type="elided">u</c></form>
+<def>mounted</def>
+<form type="sandhi"><c type="glide">~</c>ūrntāṟk*</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriyaḷ</form>
+<def>suitable-she</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>mullaiyam</form>
+<def>jasmine</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḻal</form>
+<def>curls</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nuṇ</form>
+<def>fine</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṟi</form>
+<def>spot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷḷai</form>
+<def>white thing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
+<def>conquered-he</def>
+<form type="simple">aṭarttāṟku</form>
+<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>ākum</form>
+<def>is</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>peṇ</form>
+<def>woman</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭi</form>
+<def>creeper</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mātar</form>
+<def>beauty</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṉ</form>
+<def>gold</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>poṟi</form>
+<def>spot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷḷai</form>
+<def>white thing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
+<def>conquered-he</def>
+<form type="simple">aṭarttāṟku</form>
+<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>ākum</form>
+<def>is suitable</def>
+<gramGrp>
+  <gram type="role">habitual future</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>nal</form>
+<def>good</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>koṭi</form>
+<def>creeper</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mel</form>
+<def>tender</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>mulai</form>
+<def>breast</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāṉ</form>
+<def>self</def>
+<gramGrp>
+  <gram type="role">pronoun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veṉṟi</form>
+<def>victory</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maḻa</form>
+<def>youth</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viṭai</form>
+<def>bull</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>ūrntāṟk<c type="elided">u</c></form>
+<def>mounted-he</def>
+<form type="sandhi"><c type="glide">~</c>ūrntāṟk*</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriyaḷ</form>
+<def>right-she</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>koṉṟaiyam</form>
+<def>Laburnum</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pūm</form>
+<def>flower</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḻalāḷ</form>
+<def>tresses-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tū</form>
+<def>purity</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>niṟa<c type="uncertain">m</c></form>
+<def>colour</def>
+<form type="sandhi">niṟa(m)</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veḷḷai</form>
+<def>white thing</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c></form>
+<def>conquered-he</def>
+<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<gramGrp>
+  <gram type="role">participial noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+  <gram type="role">dative</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uriyaḷ</form>
+<def>suitable-she</def>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+  <gram type="role">pronominalised noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>i<c type="geminated">+</c></form>
+<def>this-</def>
+</entry>
+<entry>
+<form>pūvai<c type="geminated">+</c></form>
+<def>bilberry</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>putu</form>
+<def>new</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>malarāḷ</form>
+<def>blossom-she</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">feminine</gram>
+</gramGrp>
+</entry>
+</standOff></TEI>
