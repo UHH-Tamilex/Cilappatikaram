@@ -1,7 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?>
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?>
-<TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -17,7 +14,7 @@
           <msIdentifier>
           </msIdentifier>
            <msContents>
-            <summary><p></p>
+            <summary><p/>
             </summary>
           </msContents>    
         </msDesc>
@@ -982,7 +979,7 @@
 <form>oru</form>
 <def>one</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>mulai</form>
@@ -2198,7 +2195,7 @@
 <form>oru</form>
 <def>one</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>nāḷ</form>
@@ -3209,7 +3206,7 @@
 <form><c type="glide">y</c>iru</form>
 <def>two</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>piṟappāḷar</form>
@@ -3224,7 +3221,7 @@
 <form>mu<c type="geminated">t</c></form>
 <def>three</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>tī<c type="geminated">c</c></form>
@@ -3245,7 +3242,7 @@
 <def>four</def>
 <form type="sandhi">nāṉ</form>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>maṟai</form>
@@ -6325,13 +6322,13 @@
 <def>two</def>
 <form type="sandhi">ru</form>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>mu<c type="geminated">k</c></form>
 <def>three</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>kāvatatt<c type="elided">u</c></form>
@@ -7513,7 +7510,7 @@
 <form>ēḻ</form>
 <def>seven</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">noun</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>nāḷ</form>
@@ -7967,7 +7964,7 @@
 <form><c type="glide">y</c>oru</form>
 <def>one</def>
 <gramGrp>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>karai<c type="geminated">k</c></form>
@@ -8270,7 +8267,7 @@
 <def>seven</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
-</gramGrp>
+<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>nāḷ</form>
