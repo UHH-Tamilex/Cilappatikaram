@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -1953,7 +1953,7 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>taṉi</form>
 <def>solitude</def>
@@ -3111,7 +3111,7 @@
 <form>āyiram</form>
 <def>thousand</def>
 <form type="sandhi">āyiraṅ</form>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>kaṇṇōṉ</form>
 <def>eye-he</def>
@@ -6368,7 +6368,7 @@
 <entry>
 <form><c type="glide">v</c>iru</form>
 <def>two</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>tiṟattu</form>
 <def>constituents</def>
@@ -6477,7 +6477,7 @@
 <entry>
 <form>nāl</form>
 <def>four</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vakai</form>
 <def>type</def>
@@ -6512,7 +6512,7 @@
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-</entry>
+<gramGrp><gram type="role">noun</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vakai</form>
 <def>type</def>
@@ -6668,7 +6668,7 @@
 <entry>
 <form>nāl</form>
 <def>four</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vēṟu</form>
 <def>different</def>
@@ -6710,7 +6710,7 @@
 <def>eight</def>
 <gramGrp>
   <gram type="role">noun</gram>
-</gramGrp>
+<gram type="role">numeral</gram></gramGrp>
 </entry>
 <entry>
 <form>kaṭai</form>
@@ -6738,7 +6738,7 @@
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>kaḻañc<c type="elided">u</c>-um</form>
 <def>Kaḻañcu measure</def>
@@ -7061,11 +7061,11 @@
 <entry>
 <form>eṇ</form>
 <def>eight</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form><c type="geminated">ṇ</c>eṇ</form>
 <def>eight</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>kalaiyōr</form>
 <def>art-they</def>
@@ -7682,7 +7682,7 @@
 <entry>
 <form>nāl</form>
 <def>four</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vakai</form>
 <def>manner</def>
@@ -8001,7 +8001,7 @@
 <entry>
 <form>iru</form>
 <def>two</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vēṟ<c type="elided">u</c></form>
 <def>different</def>
@@ -8616,7 +8616,7 @@
 <form>nūṟ<c type="elided">u</c></form>
 <def>hundred</def>
 <form type="sandhi">ṉūṟ</form>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>aṭukkattu</form>
 <def>heap</def>
@@ -8830,7 +8830,7 @@
 <entry>
 <form>nāl</form>
 <def>four</def>
-</entry>
+<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
 <entry>
 <form>vēṟu</form>
 <def>different</def>
