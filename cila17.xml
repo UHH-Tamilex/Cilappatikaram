@@ -103,10 +103,11 @@
   <p xml:lang="en">
   Saying, ‘The milk in the pot not curdling, the pouring forth of innocent tears by the bull [with] a heap[-like] hump,
 the white butter [suspended in a pot by a] rope not melting, the goats, bending over, not playing, the great bell
-thus falling to the ground, some distress is imminent,’ looking at [her] daughter, she [Aiyai] said, ‘Without being perturbed
-[in] the mind, as Kaṇṇaki who is the [most] beautiful young lady on earth watches, we shall dance the Kuravai
-that Piññai [with] spear[-like] long eyes danced in the dramatic passages in the Bālacarita that was danced
-in front of us with Māyavaṉ upon the dung[-covered] village common, so that  misery may leave
+ falling-having been cut off-to the ground, there is a sorrowful thing that comes,’ looking at [her] daughter, 
+ she [Aiyai] not getting perturbed [in her] mind, said, 
+ ‘As Kaṇṇaki who is an ornament to the lady of the earth watches, we shall dance the Kuravai
+that Piññai [with] spear[-like] long eyes danced in the dramatic passages in the Bālacarita that the elder brother (Balarāma) danced 
+with Māyavaṉ upon the dung[-covered] village common, so that  misery may leave
 the calves [of] the milk-cows.’
   </p>
 </div>
@@ -131,8 +132,8 @@ the calves [of] the milk-cows.’
 <lg xml:lang="en">
 <l>This girl with a garland of lake flowers who has desire for him who mounted-[being] one who was not afraid-the black bull —</l>
 <l>[Such are your] designations;</l>
-<l>The shoulders of this golden-braceleted beauty are suitable for him who conquered [the bull with] the red mark [on] the forehead;</l>
-<l>She—this [girl with] curls [with] Mullai flowers—is suitable for him who mounted [as] a warrior] the young [= untamed] bull;</l>
+<l>The shoulders of this golden-braceleted beauty to whom he who conquered [the bull with] the red mark [on] the forehead has a right;</l>
+<l>She—this [girl with] curls [with] Mullai flowers—to whom he who mounted [as] a warrior] the young [= untamed] bull has a right;</l>
 <l>The shoulders of this beauty [like] a girl [as] a creeper are suitable only for him who conquered the white bull [with] fine spots;</l>
 <l>The soft breasts of her—this good creeper—are suitable only for him who conquered the white bull [with] gold spots;</l>
 <l>This girl with curls [that have] laburnum flowers is suitable for him who mounted the victorious, young bull;</l>
@@ -925,9 +926,9 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form>aṟṟu</form>
-<def>thus-it</def>
+<def>having-been-cut</def>
 <gramGrp>
-  <gram type="role">neuter singular</gram>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -940,18 +941,12 @@ the calves [of] the milk-cows.’
 <gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
 </entry>
 <entry>
-<form>varuvat<c type="elided">u</c></form>
+<form>varuvatōr</form>
 <def>come it</def>
-<form type="sandhi">varuvat</form>
+<form type="sandhi">varuvatōr</form>
 <gramGrp>
-  <gram type="role">participial noun</gram>
-  <gram type="role">neuter singular</gram>
-  <gram type="role">imperfective aspect</gram>
+  <gram type="role">verbal noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>ōr</form>
-<def>one</def>
 </entry>
 <entry>
 <form>tuṉpam</form>
@@ -1015,15 +1010,16 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>mātar<c type="geminated">k</c></form>
+<form>mātarkk<c type="elided">u</c></form>
 <def>beauty</def>
+<form type="simple">mātarkku</form>
 <gramGrp>
-  <gram type="role">noun</gram>
+    <gram type="role">dative</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>kaṇi</form>
-<def>young lady</def>
+<form>aṇi</form>
+<def>ornament</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1098,17 +1094,11 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>tam</form>
-<def>self</def>
+<form>tammuṉ</form>
+<def>elder brother</def>
 <gramGrp>
-  <gram type="role">plural</gram>
-  <gram type="role">oblique</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
-</entry>
-<entry>
-<form>muṉ</form>
-<def>previously </def>
 </entry>
 <entry>
 <form>āṭiya</form>
@@ -1317,7 +1307,7 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form>cuṭṭu</form>
-<def>designation</def>
+<def>indication</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1350,7 +1340,7 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form>uriya</form>
-<def>suitable-they</def>
+<def>right-they</def>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">neuter plural</gram>
@@ -1391,13 +1381,11 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>mallaṉ</form>
-<def>prosperous-he</def>
+<form>mallal</form>
+<form type="sandhi">mallaṉ</form>
+<def>strength</def>
 <gramGrp>
-  <gram type="role">pronominalised noun</gram>
-  <gram type="role">singular</gram>
-  <gram type="role">masculine</gram>
-  <gram type="role">third person</gram>
+  <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -1429,7 +1417,7 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form>uriyaḷ</form>
-<def>suitable-she</def>
+<def>right-she</def>
 <gramGrp>
   <gram type="role">singular</gram>
   <gram type="role">feminine</gram>
