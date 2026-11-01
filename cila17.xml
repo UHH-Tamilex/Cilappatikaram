@@ -1389,7 +1389,7 @@ the calves [of] the milk-cows.’
 <entry>
 <form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c></form>
 <def>conquered-he</def>
-<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1465,7 +1465,7 @@ the calves [of] the milk-cows.’
 <entry>
 <form><c type="glide">y</c>ūrntāṟk<c type="elided">u</c></form>
 <def>mounted</def>
-<form type="sandhi"><c type="glide">y</c>ūrntāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>ūrntāṟk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1542,7 +1542,7 @@ the calves [of] the milk-cows.’
 <form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
 <def>conquered-he</def>
 <form type="simple">aṭarttāṟku</form>
-<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1625,7 +1625,7 @@ the calves [of] the milk-cows.’
 <form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
 <def>conquered-he</def>
 <form type="simple">aṭarttāṟku</form>
-<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1707,7 +1707,7 @@ the calves [of] the milk-cows.’
 <entry>
 <form><c type="glide">v</c>ūrntāṟk<c type="elided">u</c></form>
 <def>mounted-he</def>
-<form type="sandhi"><c type="glide">v</c>ūrntāṟk*</form>
+<form type="sandhi"><c type="glide">v</c>ūrntāṟk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1777,7 +1777,7 @@ the calves [of] the milk-cows.’
 <entry>
 <form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c></form>
 <def>conquered-he</def>
-<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1823,7 +1823,8 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="wordsplit" corresp="#cila17.5"><interp type="alignment" select="0">88ML57ML8ML4MG8ML65MG134MG8MG20MG9MG32MG144ML16M2G18M,237MG111MG119MG62MG92M</interp>
+<standOff type="wordsplit" corresp="#cila17.5">
+<interp type="alignment" select="0">88ML57ML8ML4MG8ML65MG132MG8MG20MG9MG32MG143ML16M2G18M,529MG92M</interp>
 <entry>
 <form>āṅku</form>
 <def>there</def>
@@ -2724,5 +2725,7 @@ the calves [of] the milk-cows.’
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
+
 </TEI>
