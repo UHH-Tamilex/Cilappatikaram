@@ -1299,7 +1299,7 @@ the calves [of] the milk-cows.’
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
 <standOff corresp="#cila17.4" type="wordsplit">
-<interp type="alignment" select="0">358M,358M</interp>
+<interp type="alignment" select="0">79MG48MG51M2G49M2G48MG33MG16MG25M,358M</interp>
 <entry>
 <form>kāri</form>
 <def>black thing</def>
@@ -1442,8 +1442,8 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form>mallal</form>
-<form type="sandhi">mallaṉ</form>
 <def>strength</def>
+<form type="sandhi">mallaṉ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -1762,7 +1762,7 @@ the calves [of] the milk-cows.’
 <entry>
 <form>niṟa<c type="uncertain">m</c></form>
 <def>colour</def>
-<form type="sandhi">niṟa(m)</form>
+<form type="sandhi">niṟa</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
