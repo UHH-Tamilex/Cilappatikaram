@@ -123,11 +123,11 @@ the calves [of] the milk-cows.’
   <lg xml:id="cila17.4">
 <l>kāri kataṉ añcāṉ pāyntāṉaik kāmuṟum ivvēri malark kōtaiyāḷ cuṭṭu</l>
 <l>neṟṟic cekilai yaṭarttāṟ kuriya vippoṉ toṭi mātarāḷ tōḷ</l>
-<l>mallaṉ maḻa viṭai ய்ūrntāṟ kuriyaḷ immullaiyam pūm kuḻal tāṉ</l>
-<l>nuṇ poṟi veḷḷai yaயttāṟkē yākum ipppeṇ koṭi mātar taṉ tōḷ</l>
+<l>mallaṉ maḻa viṭai yūrntāṟ kuriyaḷ immullaiyam pūm kuḻal tāṉ</l>
+<l>nuṇ poṟi veḷḷai yaṭarttāṟkē yākum ippeṇ koṭi mātar taṉ tōḷ</l>
 <l>poṉ poṟi veḷḷai yaṭarttāṟkē yākum innal koṭi mel mulai tāṉ</l>
 <l>veṉṟi maḻa viṭai vūrntāṟ kuriyaḷ ikkoṉṟaiyam pūm kuḻalāḷ</l>
-<l>tū niṟa veḷḷai aṭarttāṟ kuriyaḷ ip pūvaip putu malarāḷ</l>
+<l>tū niṟa veḷḷai yaṭarttāṟ kuriyaḷ ip pūvaip putu malarāḷ</l>
   </lg>
 <lg xml:lang="en">
 <l>This girl with a garland of lake flowers who has desire for him who mounted-[being] one who was not afraid-the black bull —</l>
@@ -1322,7 +1322,7 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>pāyntāṉai<c type="geminated">+</c></form>
+<form>pāyntāṉai<c type="geminated">k</c></form>
 <def>leapt-he</def>
 <gramGrp>
   <gram type="role">accusative</gram>
@@ -1339,18 +1339,18 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">+</c></form>
+<form>i<c type="geminated">v</c></form>
 <def>this-</def>
 </entry>
 <entry>
-<form><c type="glide">~</c>ēri</form>
+<form><c type="glide">v</c>ēri</form>
 <def>lake</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>malar<c type="geminated">+</c></form>
+<form>malar<c type="geminated">k</c></form>
 <def>blossom</def>
 <gramGrp>
   <gram type="role">root noun</gram>
@@ -1373,7 +1373,7 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>neṟṟi<c type="geminated">+</c></form>
+<form>neṟṟi<c type="geminated">c</c></form>
 <def>front</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -1387,9 +1387,9 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c></form>
+<form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c></form>
 <def>conquered-he</def>
-<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1407,7 +1407,7 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>i<c type="geminated">+</c></form>
+<form><c type="glide">v</c>i<c type="geminated">p</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -1463,9 +1463,9 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>ūrntāṟk<c type="elided">u</c></form>
+<form><c type="glide">y</c>ūrntāṟk<c type="elided">u</c></form>
 <def>mounted</def>
-<form type="sandhi"><c type="glide">~</c>ūrntāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>ūrntāṟk*</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1484,7 +1484,7 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">+</c></form>
+<form>i<c type="geminated">m</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -1539,10 +1539,10 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
+<form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
 <def>conquered-he</def>
 <form type="simple">aṭarttāṟku</form>
-<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1553,14 +1553,14 @@ the calves [of] the milk-cows.’
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>ākum</form>
+<form><c type="glide">y</c>ākum</form>
 <def>is</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">+</c></form>
+<form>i<c type="geminated">p</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -1622,10 +1622,10 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
+<form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c>-ē</form>
 <def>conquered-he</def>
 <form type="simple">aṭarttāṟku</form>
-<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1636,14 +1636,14 @@ the calves [of] the milk-cows.’
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>ākum</form>
+<form><c type="glide">y</c>ākum</form>
 <def>is suitable</def>
 <gramGrp>
   <gram type="role">habitual future</gram>
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">+</c></form>
+<form>i<c type="geminated">n</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -1705,9 +1705,9 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>ūrntāṟk<c type="elided">u</c></form>
+<form><c type="glide">v</c>ūrntāṟk<c type="elided">u</c></form>
 <def>mounted-he</def>
-<form type="sandhi"><c type="glide">~</c>ūrntāṟk*</form>
+<form type="sandhi"><c type="glide">v</c>ūrntāṟk*</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1726,7 +1726,7 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">+</c></form>
+<form>i<c type="geminated">k</c></form>
 <def>this-</def>
 </entry>
 <entry>
@@ -1775,9 +1775,9 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form><c type="glide">~</c>aṭarttāṟk<c type="elided">u</c></form>
+<form><c type="glide">y</c>aṭarttāṟk<c type="elided">u</c></form>
 <def>conquered-he</def>
-<form type="sandhi"><c type="glide">~</c>aṭarttāṟk*</form>
+<form type="sandhi"><c type="glide">y</c>aṭarttāṟk*</form>
 <gramGrp>
   <gram type="role">participial noun</gram>
   <gram type="role">singular</gram>
@@ -1796,11 +1796,11 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>i<c type="geminated">+</c></form>
+<form>i<c type="geminated">p</c></form>
 <def>this-</def>
 </entry>
 <entry>
-<form>pūvai<c type="geminated">+</c></form>
+<form>pūvai<c type="geminated">p</c></form>
 <def>bilberry</def>
 <gramGrp>
   <gram type="role">proper name</gram>
