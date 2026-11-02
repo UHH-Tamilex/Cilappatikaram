@@ -54,7 +54,7 @@
     </div>
     <div rend="parallel">
     <p>
-      <head type="subtitle">uraipāṭṭumaṭai </head>
+<head type="subtitle">uraipāṭṭumaṭai </head>
     </p>
 <p xml:lang="en">
   <head type="subtitle">An interval of song. </head>
@@ -191,12 +191,20 @@ the calves [of] the milk-cows.’
 <l>The good Viḷari is to the right of the aforementioned [= Iḷi].</l>
 <l>Among them, [the elderly lady] putting a Tulasi garland on Māyavaṉ,</l>
 <l>Would make happen the unhindering Kuravai. Saying, </l>
-<l>‘The one who measured the word [with] the excellence [he] possessed</l>
+<l>‘The one who measured the world [with] the excellence [he] possessed</l>
 <l>Not looking at Tiru on his own chest, it seems our Piṉṉai —</l>
 <l>—with hands from which bangles cascade—is his!</l>
 <l>The cowherdress’ daughter said ‘Wow!’</l>
       </lg>
 </div>
+<div rend="parallel">
+<p>
+<head type="subtitle">kūttuḷpaṭutal</head>
+</p>
+<p xml:lang="en">
+  <head type="subtitle">The taking place of the dance.</head>
+</p>
+  </div>
  <div rend="parallel">
       <lg xml:id="cila17.6">
 <l>avartām cennilaimaṇṭilattāṟkaṟkaṭakakkaikōot</l>
@@ -211,6 +219,18 @@ the calves [of] the milk-cows.’
 <l>piṉṟaiyaip pāṭṭeṭup pāḷ</l>
       </lg>
       <lg xml:lang="en">
+        <l>[Among] those — the girls who were selected [for] the excellence of the dancing in that state,</l>
+<l>[They] having strung together [their] hands [in] the crab gesture, with [the formation of]</l>
+<l>A perfect circle, the creeper[-girl] Kural—in the front—looking at her [who was Kural’s] musical fifth [Iḷi],</l>
+<l>Said, ‘let us sing the sweet number [in] the Mullai melody [about] him who broke</l>
+<l>The Kuruntu tree in the wide fields [of] the clearings!</l>
+
+<l>Saying so,</l>
+
+<l>Kural being of a low [pitch/volume], Iḷi being of a moderate [pitch/volume]</l>
+<l>[And] Tuttam being strong, the girl who holds the Viḷari which was not strong</l>
+<l>[And thus] moderate, would [now] take up the [pitch of] the song</l>
+<l>After [following the cue/pitch] of her musical fourth (Tuttam).</l>
       </lg>
     </div>
   </body>
@@ -2743,7 +2763,8 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 </standOff>
-<standOff type="wordsplit" corresp="#cila17.6"><interp type="alignment" select="0">44MG7MG14MG43MG25MG74MG45ML19MG7M,286M</interp>
+<standOff type="wordsplit" corresp="#cila17.6">
+<interp type="alignment" select="0">44MG7MG14MG43MG25MG74MG13MG32ML19MG7M,287M</interp>
 <entry>
 <form>avar</form>
 <def>that one</def>
@@ -2807,8 +2828,6 @@ the calves [of] the milk-cows.’
 <entry>
 <form>a<c type="geminated">n</c></form>
 <def>that</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>nilai-<c type="glide">y</c>ē</form>
@@ -2854,8 +2873,6 @@ the calves [of] the milk-cows.’
 <entry>
 <form>muṉṉai<c type="geminated">k</c></form>
 <def>in-front</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>kural</form>
@@ -3059,16 +3076,25 @@ the calves [of] the milk-cows.’
 </gramGrp>
 </entry>
 <entry>
-<form>valiyā</form>
-<def>strength-not</def>
+<form>vali<c type="glide">y</c></form>
+<def>strength</def>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">negative</gram>
 </gramGrp>
 </entry>
 <entry>
+<form>ā</form>
+<def>strength</def>
+<form type="sandhi">ā</form>
+<def>being</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
 <form>uraṉ</form>
-<def>strength-not</def>
+<def>strength</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3125,9 +3151,8 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form>piṉṟaiyai<c type="geminated">p</c></form>
-<def>Piṉṉai</def>
+<def>after</def>
 <gramGrp>
-  <gram type="role">proper name</gram>
   <gram type="role">accusative</gram>
 </gramGrp>
 </entry>
