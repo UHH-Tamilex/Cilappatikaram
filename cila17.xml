@@ -330,7 +330,40 @@ the calves [of] the milk-cows.’
 <l>Musical measures that unite [with] the melody.</l>
 
       </lg>
-    </div> 
+      </div>
+
+         <div rend="parallel">
+    <p>
+      <head type="subtitle">Aṭunarppukaḻtal</head>
+    </p>
+<p xml:lang="en">
+  <head type="subtitle">The praising of the dancers.</head>
+</p>
+  </div>
+
+        <div rend="parallel">
+      <lg xml:id="cila17.9">
+<l>māyavaṉṟam muṉṉiṉoṭum varivaḷaikkaip piṉṉaiyoṭum</l>
+<l>kōvalartañ ciṟumiyarkaḷ kuḻaṟkōtai puṟañcōra</l>
+<l>āyvaḷaiccīrk kaṭipeyarttiṭ ṭacōtaiyar toḻutēttat</l>
+<l>tāterumaṉ ṟattāṭuṅ kuravaiyō takavuṭaittē</l>
+<l>ellānām</l>
+<l>puḷḷūr kaṭavuḷaip pōṟṟutum pōṟṟutum</l>
+<l>uḷvarip pāṇiyoṉ ṟuṟṟu</l>
+      </lg>
+      <lg xml:lang="en">
+<l>As for the Kuravai Māyavaṉ dances at the village arena</l>
+<l>Along with his older brother and Piṉṉai [with] arms [with] striped bangles</l>
+<l>[The girls with] choice bangles having tapped/moved [their] feet</l>
+<l>To the beat of the music, As Yaśoda praises [them]</l>
+<l>As the garland [on] the curls [= heads] of the little girls</l>
+<l>Of the cowherds droops down [their] backs,</l>
+<l>It is befitting!</l>
+<l>Hey friend! Let us praise, let us praise</l>
+<l>The God who mounts the bird, having a song of the Uḷvari type</l>
+<l>Of [only] one rhythmic sequence. (?)</l>
+      </lg>
+    </div>
   </body>
 </text>
 
@@ -4686,6 +4719,348 @@ the calves [of] the milk-cows.’
   <gram type="role">honorific</gram>
   <gram type="role">singular</gram>
   <gram type="role">third person</gram>
+</gramGrp>
+</entry></standOff>
+<standOff type="wordsplit" corresp="#cila17.9"><interp type="alignment" select="0">18M2G25M2G56MG10MG3MG14MG8MG10MG11MG7MG6M2G55MG4M,242M</interp>
+<entry>
+<form>māyavaṉ</form>
+<def>illusion-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">masculine singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tam</form>
+<def>self</def>
+<form type="sandhi">ṟam</form>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṉṉiṉoṭ<c type="elided">u</c>-um</form>
+<def>older brother</def>
+<form type="simple">muṉṉiṉoṭu</form>
+<form type="sandhi">muṉṉiṉoṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>vari</form>
+<def>line</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷai<c type="geminated">k</c></form>
+<def>bangle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kai<c type="geminated">p</c></form>
+<def>hand</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>piṉṉaiyoṭ<c type="elided">u</c>-um</form>
+<def>Piṉṉai</def>
+<form type="simple">piṉṉaiyoṭu</form>
+<form type="sandhi">piṉṉaiyoṭ</form>
+<gramGrp>
+  <gram type="role">sociative</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">um</m></gramGrp>
+</entry>
+<entry>
+<form>kō</form>
+<def>cow</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>valar</form>
+<def>be able</def>
+<gramGrp>
+  <gram type="role">third person</gram>
+  <gram type="role">plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>taṉ</form>
+<def>self</def>
+<form type="sandhi">tañ</form>
+<gramGrp>
+  <gram type="role">singular</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ciṟumiyarkaḷ</form>
+<def>little girls</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">feminine plural</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuḻal</form>
+<def>curls</def>
+<form type="sandhi">kuḻaṟ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōtai</form>
+<def>garland</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puṟam</form>
+<def>back</def>
+<form type="sandhi">puṟañ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cōra</form>
+<def>slip-down</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āy</form>
+<def>choice</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaḷai<c type="geminated">c</c></form>
+<def>bangle</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>cīrkk<c type="elided">u</c></form>
+<def>musical measure</def>
+<form type="sandhi">cīrkk</form>
+<gramGrp>
+  <gram type="role">dative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭi</form>
+<def>foot</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>peyartt<c type="elided">u</c></form>
+<def>moved</def>
+<form type="sandhi">peyartt</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭṭ<c type="elided">u</c></form>
+<def>placed</def>
+<form type="sandhi">iṭṭ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>acōtaiyar</form>
+<def>Yaśoda</def>
+<gramGrp>
+  <gram type="role">honorific</gram>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toḻut<c type="elided">u</c></form>
+<def>worshipped</def>
+<form type="sandhi">toḻut</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ētta<c type="geminated">t</c></form>
+<def>praise</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tāt<c type="elided">u</c></form>
+<def>dust</def>
+<form type="sandhi">tāt</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>eru</form>
+<def>dung</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maṉṟatt<c type="elided">u</c></form>
+<def>village common</def>
+<form type="sandhi">maṉṟatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>āṭum</form>
+<def>dancing</def>
+<form type="sandhi">āṭuṅ</form>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuravai-<c type="glide">y</c>ō</form>
+<def>Kuravai dance</def>
+<form type="simple">kuravai</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ō</m></gramGrp>
+</entry>
+<entry>
+<form>takav<c type="elided">u</c></form>
+<def>fitness</def>
+<form type="sandhi">takav</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṭaitt<c type="elided">u</c>-ē</form>
+<def>possess-it</def>
+<form type="simple">uṭaittu</form>
+<form type="sandhi">uṭaitt</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">third person</gram>
+  <gram type="role">pronominalised noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>ellā</form>
+<def>friend</def>
+<gramGrp>
+  <gram type="role">vocative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nām</form>
+<def>we</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>puḷ</form>
+<def>bird</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="geminated">ḷ</c>ūr</form>
+<def>mount</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭavuḷai<c type="geminated">p</c></form>
+<def>god</def>
+<gramGrp>
+  <gram type="role">accusative</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōṟṟutum</form>
+<def>praise-we</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">subjunctive</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pōṟṟutum</form>
+<def>praise-we</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">subjunctive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uḷ</form>
+<def>inside</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vari<c type="geminated">p</c></form>
+<def>Vari dance</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>pāṇi</form>
+<def>beat</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>oṉṟ<c type="elided">u</c></form>
+<def>one-it</def>
+<form type="sandhi"><c type="glide">y</c>oṉṟ</form>
+<gramGrp>
+  <gram type="role">neuter singular</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>uṟṟu</form>
+<def>had</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
 </gramGrp>
 </entry></standOff>
 </TEI>
