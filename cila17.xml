@@ -477,6 +477,13 @@ the calves [of] the milk-cows.’
 <l>paṭarntā raṇamuḻaṅkap pañcavarkkut tūtu</l>
 <l>naṭantāṉai yēttāta nāveṉṉa nāvē</l>
 <l>nārāya ṇāveṉṉā nāveṉṉa nāvē</l>
+<l>eṉṟiyām</l>
+<l>kōtta kuravaiyu ḷēttiya teyvanam</l>
+<l>āttalaip paṭṭa tuyartīrkka vēttar</l>
+<l>maruḷa vaikal vaikaṉ māṟaṭṭu</l>
+<l>veṟṟi viḷaippatu maṉṉō koṟṟat</l>
+<l>tiṭippaṭai vāṉavaṉ muṭittalai yuṭaitta</l>
+<l>toṭittōṭ ṭeṉṉavaṉ kaṭippiku muracē</l>
       </lg>
       <lg xml:lang="en">
 <l>Finishing [the crossing] in an unfinished manner</l>
@@ -499,9 +506,16 @@ the calves [of] the milk-cows.’
 <l>Protecting the four directions from the hundred  [= Kauravas] </l>
 <l>As the Āraṇyaka [part of the Vedas] resounded, he having set out?</l>
 <l>What tongue is the tongue that does not say, ‘Nārāyaṇā!’?</l>
-
-
-
+<l>Saying so,</l>
+<l>So that the God whom we praised in the Kuravai dance </l>
+<l>That was strung together puts to an end the sorrow</l>
+<l>That befell our cows, having killed [our] enemies</l>
+<l>Day after day, so that [even] kings are amazed</l>
+<l>Victory surely ripens [for] the Muracu drum</l>
+<l>Beaten [with] sticks, [belonging to] the Southern One</l>
+<l>[with] shoulders [with] bracelets who broke the head</l>
+<l>of the celestian one [with] a thunderbolt [as a] weapon</l>
+<l>[With his own] crown!</l>
 
       </lg>
     </div>
@@ -6481,12 +6495,10 @@ the calves [of] the milk-cows.’
 </gramGrp>
 <gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
 </entry></standOff>
-<standOff type="wordsplit" corresp="#cila17.12"><interp type="alignment" select="0">7M2G60M2G17MG62MG72MG10MG6MG10MG37MG34MG10MR44ML7MG16MG6ML49MG24MG2M,492M</interp>
+<standOff type="wordsplit" corresp="#cila17.12"><interp type="alignment" select="0">7M2G60M2G17MG62MG72MG10MG6MG10MG37MG34MG10MR44ML7MG16MG6ML49MG24MG5MG30MR54MG19MG12MG56MG8M2GM,683M</interp>
 <entry>
 <form>mū</form>
 <def>three</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form><c type="glide">v</c>ulak<c type="elided">u</c>-um</form>
@@ -6501,8 +6513,6 @@ the calves [of] the milk-cows.’
 <entry>
 <form>īr</form>
 <def>both</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>aṭiyāṉ</form>
@@ -6685,6 +6695,7 @@ the calves [of] the milk-cows.’
 <form><c type="glide">y</c>eṉṉa</form>
 <def>what</def>
 <gramGrp>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -6863,8 +6874,9 @@ the calves [of] the milk-cows.’
 </entry>
 <entry>
 <form><c type="geminated">ṇ</c>eṉṉa</form>
-<def>what</def>
+<def>say</def>
 <gramGrp>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -6922,6 +6934,7 @@ the calves [of] the milk-cows.’
 <form><c type="geminated">ṇ</c>eṉṉa</form>
 <def>what</def>
 <gramGrp>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -7094,6 +7107,7 @@ the calves [of] the milk-cows.’
 <form><c type="glide">v</c>eṉṉa</form>
 <def>what</def>
 <gramGrp>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
@@ -7132,12 +7146,269 @@ the calves [of] the milk-cows.’
 <form><c type="glide">v</c>eṉṉa</form>
 <def>what</def>
 <gramGrp>
+  <gram type="role">infinitive</gram>
 </gramGrp>
 </entry>
 <entry>
 <form>nā-<c type="glide">v</c>ē</form>
 <def>tongue</def>
 <form type="simple">nā</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">ē</m></gramGrp>
+</entry>
+<entry>
+<form>eṉṟ<c type="elided">u</c></form>
+<def>said</def>
+<form type="sandhi">eṉṟ</form>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="inserted">i</c>yām</form>
+<def>we</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">first person</gram>
+  <gram type="role">pronoun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kōtta</form>
+<def>stringed</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kuravai</form>
+<def>Kuravai dance</def>
+<gramGrp>
+  <gram type="role">proper name</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uḷ</form>
+<def>inside</def>
+</entry>
+<entry>
+<form>ēttiya</form>
+<def>raised</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teyvam</form>
+<def>god</def>
+<form type="sandhi">teyvan</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>nam</form>
+<def>our</def>
+<gramGrp>
+  <gram type="role">plural</gram>
+  <gram type="role">oblique</gram>
+  <gram type="role">first person</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>ā<c type="geminated">t</c></form>
+<def>cow</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talaippaṭṭa</form>
+<def>happened</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tuyar</form>
+<def>misery</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tīrkka</form>
+<def>alleviate</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vēttar</form>
+<def>king</def>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>maruḷa</form>
+<def>be-confused</def>
+<gramGrp>
+  <gram type="role">infinitive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaikal</form>
+<def>day</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vaikal</form>
+<def>day</def>
+<form type="sandhi">vaikaṉ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>māṟ<c type="elided">u</c></form>
+<def>enemy</def>
+<form type="sandhi">māṟ</form>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>aṭṭu</form>
+<def>killed</def>
+<gramGrp>
+  <gram type="role">absolutive</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>veṟṟi</form>
+<def>victory</def>
+<gramGrp>
+  <gram type="role">adjective</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>viḷaippatu-maṉṉō</form>
+<def>ripening</def>
+<form type="simple">viḷaippatu</form>
+<gramGrp>
+  <gram type="role">imperfective aspect</gram>
+  <gram type="role">participial noun</gram>
+  <gram type="role">neuter singular</gram>
+  <gram type="role">third person</gram>
+</gramGrp>
+<gramGrp type="particle"><m type="enclitic">maṉṉō</m></gramGrp>
+</entry>
+<entry>
+<form>koṟṟatt<c type="elided">u</c></form>
+<def>victory</def>
+<form type="sandhi">koṟṟatt</form>
+<gramGrp>
+  <gram type="role">oblique</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iṭi<c type="geminated">p</c></form>
+<def>thunder</def>
+<gramGrp>
+  <gram type="role">root noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>paṭai</form>
+<def>weapon</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>vāṉavaṉ</form>
+<def>sky-he</def>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>muṭi<c type="geminated">t</c></form>
+<def>crown</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>talai</form>
+<def>head</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form><c type="glide">y</c>uṭaitta</form>
+<def>broken</def>
+<gramGrp>
+  <gram type="role">peyareccam</gram>
+  <gram type="role">perfective aspect</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>toṭi<c type="geminated">t</c></form>
+<def>bracelet</def>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>tōḷ</form>
+<def>shoulder</def>
+<form type="sandhi">tōṭ</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>teṉṉavaṉ</form>
+<def>south-he</def>
+<form type="sandhi">ṭeṉṉavaṉ</form>
+<gramGrp>
+  <gram type="role">pronominalised noun</gram>
+  <gram type="role">singular</gram>
+  <gram type="role">masculine</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>kaṭipp<c type="elided">u</c></form>
+<def>drum stick</def>
+<form type="sandhi">kaṭipp</form>
+<gramGrp>
+  <gram type="role">noun</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>iku</form>
+<def>beat</def>
+<gramGrp>
+  <gram type="role">verbal root</gram>
+</gramGrp>
+</entry>
+<entry>
+<form>murac<c type="elided">u</c>-ē</form>
+<def>drum</def>
+<form type="simple">muracu</form>
+<form type="sandhi">murac</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
