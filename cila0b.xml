@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -26,28 +26,22 @@
   <body>
     <div rend="parallel">
       <p xml:id="Cila0.1">
-      <p>
-1. aṉṟutoṭṭup pāṇṭiyaṉāṭu maḻaivaṟaṅkūrntu vaṟumaiyeyti 
+<l>1. aṉṟutoṭṭup pāṇṭiyaṉāṭu maḻaivaṟaṅkūrntu vaṟumaiyeyti 
 veppunōyuṅ kuruvun toṭarak koṟkaiyilirunta veṟṟivēṟceḻiyaṉ
 naṅkaikkup poṟkollarāyiravaraikkoṉṟu kaḷavēḷviyāl viḻavoṭucānti ceyya
- nāṭumaliya maḻaipeytu nōyun tuṉpamu nīṅkiyatu.
- </p>
- <p>
-2. atukēṭṭuk koṅkiḷaṅ kōcar taṅkaṇāṭṭakattu naṅkaikku viḻavoṭucānticeyya
-maḻaitoḻileṉṟum māṟātāyiṟṟu.
-</p>
-<p>
-. 3 . atukēṭṭuk kaṭalcūḻilaṅkaik kayavākuveṉpāṉ naṅkaikku nāṭpalipīṭikai kōṭṭamuṅtuṟuttāṅku
-arantaikeṭuttu varantarumivaḷeṉa āṭittiṅka ḷakavaiyiṉāṅkōr pāṭiviḻākkōḷ paṉmuṟai yeṭuppa
-maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟṟu.
-</p>
+ nāṭumaliya maḻaipeytu nōyun tuṉpamu nīṅkiyatu.</l>
+<l>2. atukēṭṭuk koṅkiḷaṅ kōcar taṅkaṇāṭṭakattu naṅkaikku viḻavoṭucānticeyya
+maḻaitoḻileṉṟum māṟātāyiṟṟu.</l>
+<l>3. atukēṭṭuk kaṭalcūḻilaṅkaik kayavākuveṉpāṉ naṅkaikku nāṭpalipīṭikai kōṭṭamuṅtuṟuttāṅku
+arantaikeṭuttu varantarumivaḷeṉa āṭittiṅka ḷakavaiyiṉāṅkōr pāṭiviḻākkōḷ paṉmuṟai yeṭuppa</l>
+<l>maḻaivī ṟṟiruntu vaḷampalaperukip piḻaiyāviḷaiyu ṇāṭāyiṟṟu.</l>
 </p>
 <p xml:lang="en">
-<l>1. Starting that day, the drought in the Pāṇṭiyaṉ’s land having intensified, reaching [a state of] poverty, resulting in even heatstroke and heatboils,</l>
-<l>[the king] Veṟṟivēl Ceḻiyaṉ  who sat in Koṟkai having sacrified for the lady (Kaṇṇaki) a thousand goldsmiths, [and] appeasing [the drought] with this sacrifice, along with a festival - </l>
+<l>Starting that day, the drought in the Pāṇṭiyaṉ’s land having intensified, reaching [a state of] poverty, resulting in even heatstroke and heatboils,</l>
+<l>[the king] Veṟṟivēl Ceḻiyaṉ  who sat in Koṟkai having sacrified for the lady (Kaṇṇaki) a thousand goldsmiths, [and] appeasing [the drought] with this sacrifice, along with a festival -</l>
 <l>the lands also becoming more fertile, it rained, [and] the disease and sorrow abated. </l>
-<l> 2. Having heard about that [festival], as Koṅkiḷaṅkōcar [also] appeased with a festival for the lady inside his own land, </l>
-<l> the work of the rain (to bring prosperity) [since] remained unchanged always. </l>
+<l>Having heard about that [festival], as Koṅkiḷaṅkōcar [also] appeased with a festival for the lady inside his own land,</l>
+<l>the work of the rain (to bring prosperity) [since] remained unchanged always.</l>
 </p>
     </div>
   </body>

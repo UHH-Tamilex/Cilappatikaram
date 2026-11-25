@@ -1,4 +1,4 @@
-<?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
@@ -229,7 +229,7 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Cila0">
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#Cila0">
 <interp type="alignment" select="0">16MG11MG53MG74MG8MG15MG36MG27MG16MG5MG4ML55MG3MG26MG85MG26MG189MG21MG4MG9MG5MG3MG90MG61MG20MG50ML7ML34MG7MG4ML35ML65MG15MG40MG176MG110MG18ML29MG94MG15MG8MG5MG18MG13MG20MG11MG72MG35M2G8MG6ML2MG8MG6MG23MG31MG2MR27MG9MG29MG14MG13MG16MG22MG12MG5MG22MG6MG27MG27MG15MG14MG7MG34MG9MG14MG9ML20MG19MG18MG26MG2MR8ML17MG24MG9MG11ML4MG16MG32MG3ML3MG25MG6MG26ML38MG5MG4M2G20MG95MG3M,2012MG681MG</interp>
 <entry>
 <form>kuṇa</form>
@@ -401,7 +401,11 @@
 <entry>
 <form>oru</form>
 <def>one</def>
-<gramGrp><gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp></entry>
+<gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">numeral</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>mulai</form>
 <def>breast</def>
@@ -1925,16 +1929,16 @@
 </gramGrp>
 </entry>
 <entry>
-<form>naḷ</form>
+<form>naḷ<c type="geminated">ḷ</c></form>
 <def>middle</def>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">ḷ</c>iruḷ</form>
+<form>iruḷ</form>
 <def>darkness</def>
-<form type="sandhi"><c type="geminated">ḷ</c>iruṭ</form>
+<form type="sandhi">iruṭ</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -2288,7 +2292,11 @@
 <entry>
 <form>ēḻ</form>
 <def>seven</def>
-<gramGrp><gram type="role">noun</gram><gram type="role">numeral</gram></gramGrp></entry>
+<gramGrp>
+  <gram type="role">noun</gram>
+  <gram type="role">numeral</gram>
+</gramGrp>
+</entry>
 <entry>
 <form>nāḷ</form>
 <def>day</def>
@@ -2377,14 +2385,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>il</form>
+<form>il<c type="geminated">l</c></form>
 <def>house</def>
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">l</c>eṉa<c type="geminated">k</c></form>
+<form>eṉa<c type="geminated">k</c></form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -3455,7 +3463,6 @@
 <entry>
 <form>vēntaṉoṭu</form>
 <def>king</def>
-<form type="sandhi">vēntaṉoṭu</form>
 <gramGrp>
   <gram type="role">masculine singular</gram>
   <gram type="role">sociative</gram>
@@ -3708,7 +3715,8 @@
 <form type="sandhi"><c type="glide">v</c>āṟ</form>
 <gramGrp>
   <gram type="role">noun</gram>
-<gram type="role">numeral</gram></gramGrp>
+  <gram type="role">numeral</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>aint<c type="elided">u</c>-um</form>
