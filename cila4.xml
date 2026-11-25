@@ -1,9 +1,9 @@
-<?xml-model href="https://www.tei-c.org/release/xml/tei/custom/schema/relaxng/tei_all.rng" schematypens="http://relaxng.org/ns/structure/1.0" type="application/xml"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/xsl" href="edition.xsl" ?><TEI xmlns="http://www.tei-c.org/ns/1.0"><script xmlns="http://www.w3.org/1999/xhtml" src="./lib/js/xslt-polyfill.min.js"></script>
   <teiHeader>
     <fileDesc>
       <titleStmt>
         <title>
-            <title xml:lang="ta">Cilappatikāram</title> Antimālaic Ciṟappucceykātai.
+            <title xml:lang="ta">Cilappatikāram</title> Antimālaic Ciṟappucceykātai <num>4</num>.
             <persName xml:lang="ta">Iḷaṅkō</persName>
         </title> 
             <editor role="translator">Neela Bhaskar</editor>               
@@ -210,7 +210,8 @@
     </div>
   </body>
 </text>
-<standOff type="wordsplit" corresp="#Cila4"><interp type="alignment" select="0">23ML4MG41MG33MG4MG58MG31ML19MG67MG130MG59MG15MG5MG64MG15MG11MG9MG48ML53MG5MG43MG18MG79MG3MG53MR23MG9MG19MG21MG27MG59ML62ML19ML144ML27MG20MG55MG76MG83ML14ML16ML4ML22ML31ML42MG31MG90MG2ML7MG4MG17MG100MG34MG19MG10MG97MG12ML25ML151ML76M2G17M2G7MG81ML15M,603MG1360MG558M</interp>
+<standOff xmlns="http://www.tei-c.org/ns/1.0" type="wordsplit" corresp="#Cila4">
+<interp type="alignment" select="0">23ML4MG41MG33MG4MG58MG31ML19MG67MG130MG59MG15MG5MG64MG15MG11MG57ML53MG5MG43MG18MG79MG3MG53MR23MG9MG19MG21MG27MG59ML62ML19ML144ML27MG20MG55MG76MG83ML14ML16ML4ML22ML31ML42MG31MG90MG2ML7MG4MG17MG134MG19MG10MG97MG12ML25ML151ML76M2G17M2G7MG81ML15M,2521M</interp>
 <entry>
 <form>viri</form>
 <def>expand</def>
@@ -260,7 +261,9 @@
 <form>oru</form>
 <def>one</def>
 <gramGrp>
-<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">numeral</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>taṉi<c type="geminated">t</c></form>
@@ -298,8 +301,6 @@
 <entry>
 <form>aṅkaṇ</form>
 <def>that-place</def>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
 <form>vāṉatt<c type="elided">u</c></form>
@@ -351,11 +352,9 @@
 <form>yāṇṭ<c type="elided">u</c></form>
 <def>where</def>
 <form type="sandhi">yāṇṭ</form>
-<gramGrp>
-</gramGrp>
 </entry>
 <entry>
-<form>uḷaṉ-kol</form>
+<form>uḷaṉ-kol<c type="geminated">l</c></form>
 <def>he is</def>
 <form type="simple">uḷaṉ</form>
 <gramGrp>
@@ -365,7 +364,7 @@
 <gramGrp type="particle"><m type="enclitic">kol</m></gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">l</c>eṉa<c type="geminated">t</c></form>
+<form>eṉa<c type="geminated">t</c></form>
 <def>say</def>
 <gramGrp>
   <gram type="role">infinitive</gram>
@@ -611,7 +610,9 @@
 <form>oru</form>
 <def>one</def>
 <gramGrp>
-<gram type="role">adjective</gram><gram type="role">numeral</gram></gramGrp>
+  <gram type="role">adjective</gram>
+  <gram type="role">numeral</gram>
+</gramGrp>
 </entry>
 <entry>
 <form>tiṟam</form>
@@ -1043,7 +1044,6 @@
 <entry>
 <form>iṟutteṉa</form>
 <def>lingered</def>
-<form type="sandhi">iṟutteṉai</form>
 <gramGrp>
   <gram type="role">causative</gram>
   <gram type="role">absolutive</gram>
@@ -1052,7 +1052,6 @@
 <entry>
 <form>iḷaiyar</form>
 <def>young-they</def>
-<form type="sandhi">ḷaiyar</form>
 <gramGrp>
   <gram type="role">pronominalised noun</gram>
   <gram type="role">third person</gram>
@@ -1604,14 +1603,14 @@
 </gramGrp>
 </entry>
 <entry>
-<form>veḷ</form>
+<form>veḷ<c type="geminated">ḷ</c></form>
 <def>white</def>
 <gramGrp>
   <gram type="role">adjective</gram>
 </gramGrp>
 </entry>
 <entry>
-<form><c type="geminated">ḷ</c>ayir</form>
+<form>ayir</form>
 <def>powder?</def>
 <gramGrp>
   <gram type="role">noun</gram>
@@ -2801,7 +2800,6 @@
 <entry>
 <form>ceṟitta</form>
 <def>be-dense</def>
-<form type="sandhi">ceṟittai</form>
 <gramGrp>
   <gram type="role">peyareccam</gram>
   <gram type="role">perfective aspect</gram>
@@ -2810,7 +2808,6 @@
 <entry>
 <form>iṇai</form>
 <def>pair</def>
-<form type="sandhi">ṇai</form>
 <gramGrp>
   <gram type="role">noun</gram>
 </gramGrp>
@@ -3571,5 +3568,6 @@
 <gramGrp>
   <gram type="role">verbal root</gram>
 </gramGrp>
-</entry></standOff>
+</entry>
+</standOff>
 </TEI>
